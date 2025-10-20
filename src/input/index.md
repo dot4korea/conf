@@ -75,6 +75,11 @@
 
 - 
 
+<div class="row justify-content-center mb-4">
+    <div class="col-sm-12 col-md-8 text-center">
+        <img src="./assets/img/management_team.jpg" class="img-fluid">
+    </div>
+</div>
 
 
 <br/>
