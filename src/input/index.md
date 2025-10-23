@@ -37,6 +37,18 @@
 <div class="row justify-content-center align-items-center">
 
   <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
+    <a href="https://www.microsoft.com/ko-kr/" target="_blank" class="text-decoration-none">
+      <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-center" style="height:220px;">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ-P6doILlCsrP8GAuwDows6RCRkjKW6s-GQ&s" 
+             alt="마이크로소프트 로고" 
+             class="img-fluid mb-3" 
+             style="max-width: 100%; max-height: 120px; object-fit: contain;">
+        <h5 class="fw-bold text-dark mt-auto">마이크로소프트</h5>
+      </div>
+    </a>
+  </div>
+
+  <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
     <a href="https://www.infragistics.co.kr/" target="_blank" class="text-decoration-none">
       <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-center" style="height:220px;">
         <img src="https://play-lh.googleusercontent.com/NnCnuXwCuQ4x25lS-WZsc4EEqosR3A6UIxsK5j_IjQjJNQJYUNHQNuvCgX-1FI0wXNk" 
@@ -79,9 +91,16 @@
 .NET 기술을 활용한 프로젝트, 개발 경험, 아키텍처, 성능 개선, 커뮤니티 활동 등
 여러분의 이야기를 들려주세요!
 
-- 발표 시간: 45분
-- 발표 제안 마감: 10월 31일(금)
+- **발표 시간:** 45분
+- **발표 제안 마감:** 10월 31일(금)
 
+<br/>
+
+<div class="text-center mt-4 mb-5">
+  <a href="https://forms.cloud.microsoft/r/9NES5afsta" target="_blank" class="btn btn-primary btn-lg px-5 py-3 fw-bold">
+    발표자 신청하기
+  </a>
+</div>
 
 <br/>
 
