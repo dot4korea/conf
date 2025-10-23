@@ -32,6 +32,16 @@
 <br/>
 
 **.NET Conf 2025 @Seoul** 은 다음과 같은 후원사들의 지원으로 진행됩니다:
+<br/>
+
+<div class="text-center mt-4 mb-5">
+  <a href="https://forms.office.com/r/3cMZLnaq1X" target="_blank" class="btn btn-primary btn-lg px-5 py-3 fw-bold">
+    후원사 신청하기
+  </a>
+</div>
+
+<br/>
+
 
 <br/>
 
