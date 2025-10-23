@@ -97,19 +97,59 @@
 </p>
 
 ## 🙌 운영진
-<br/>
 
 **.NET Conf 2025 @Seoul**은 커뮤니티 중심으로 운영됩니다.
 아래 운영진들이 행사를 준비하고 있습니다:
 
 - 
 
-<div class="row justify-content-center mb-4">
-    <div class="col-sm-12 col-md-8 text-center">
-        <img src="./assets/img/management_team.jpg" class="img-fluid">
-    </div>
-</div>
+## 🙌 운영진
+<br/>
 
+**.NET Conf 2025 @Seoul**은 커뮤니티 중심으로 운영됩니다.  
+아래 운영진들이 열정적으로 행사를 준비하고 있습니다 🎉
+
+<br/>
+
+<div class="row justify-content-center">
+
+  <!-- 고요한 -->
+  <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4 text-center">
+    <img src="https://dot4.kr/ko.jpg" alt="고요한" class="img-fluid rounded-circle shadow-sm mb-2" style="width:140px; height:140px; object-fit:cover;">
+    <h6 class="fw-bold mb-0">고요한</h6>
+  </div>
+
+  <!-- 김진석 -->
+  <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4 text-center">
+    <img src="https://dot4.kr/kim.jpg" alt="김진석" class="img-fluid rounded-circle shadow-sm mb-2" style="width:140px; height:140px; object-fit:cover;">
+    <h6 class="fw-bold mb-0">김진석</h6>
+  </div>
+
+  <!-- 박구삼 -->
+  <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4 text-center">
+    <img src="https://bandwagon.cloud/assets/img/members/gusam-park.png" alt="박구삼" class="img-fluid rounded-circle shadow-sm mb-2" style="width:140px; height:140px; object-fit:cover;">
+    <h6 class="fw-bold mb-0">박구삼</h6>
+  </div>
+
+  <!-- 유저스틴 -->
+  <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4 text-center">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUovuBn42Y6pBS-M-5WRTiSp9un4BxiLJ1fA&s" alt="유저스틴" class="img-fluid rounded-circle shadow-sm mb-2" style="width:140px; height:140px; object-fit:cover;">
+    <h6 class="fw-bold mb-0">유저스틴</h6>
+  </div>
+
+  <!-- 이광석 -->
+  <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4 text-center">
+    <img src="https://velog.velcdn.com/images/heelieben/post/63766f3f-ffd7-445e-a7bc-41ba722c7cf0/image.png" alt="이광석" class="img-fluid rounded-circle shadow-sm mb-2" style="width:140px; height:140px; object-fit:cover;">
+    <h6 class="fw-bold mb-0">이광석</h6>
+  </div>
+
+  <!-- 조장원 -->
+  <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4 text-center">
+    <img src="https://community-media.linkareer.com/56772?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb21tdW5pdHktbWVkaWEubGlua2FyZWVyLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzYzODgzMDY0fX19XX0_&Key-Pair-Id=K355AZ2AKPMK1Z&Signature=LRvsOe94Rx37QxNx75znmFM6Cdro59pBFSr9JTucNPhJtTUbi0t7x1mKjvxt8Odii94Jzad0Yiisl3eY8Vq245wWrkevOEaTOtzDc0YNRkAOaQF7cOv-40zmO4V4v8BSMZLuNjyfV9yKEhXiIfjBhyx5wYHicbZNRSDt4KVZX66dfvjD5MpwGwipYWMsDW5YF84wPRCMJqp1N7YgC2Qyd1bqv86uW7Wsy3SpTDkYy88SLKxhKwKmNYnrhTkIB4kTe6Xmbfh~9WzDHaBNK3H0Ex1gv1X2WuBiTbHIp1TyeG7vo~UGv1mnqhhjdX4f1XBQIh5TDITwCMwSl5oKEtvqBA__" alt="조장원" class="img-fluid rounded-circle shadow-sm mb-2" style="width:140px; height:140px; object-fit:cover;">
+    <h6 class="fw-bold mb-0">조장원</h6>
+  </div>
+
+</div>
 
 <br/>
 
