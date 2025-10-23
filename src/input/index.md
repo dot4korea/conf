@@ -1,7 +1,5 @@
 ﻿Title: .NET Conf 2025 @Seoul
 ---
-
-**.NET Conf 2025 @Seoul**
 <div class="text-center">
     <img src="./assets/img/dotnetconf.jpg" alt=".NET Conf 2025 @Seoul Banner" class="img-fluid">
 </div>
@@ -23,12 +21,17 @@
 - **참석접수 :** [온오프믹스 접수 페이지 바로가기](https://www.onoffmix.com/event/331906)
   
 
-<div class="row justify-content-center mb-4">
-    <div class="col-sm-12 col-md-8 text-center">
-        <img src="./assets/img/location.png" class="img-fluid">
-    </div>
+<div style="margin-top: 20px; margin-bottom: 20px;">
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3162.338995325708!2d126.9765721763372!3d37.57099712419088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca2c133a9d35d%3A0x2964e520038e2e1b!2z7ZWc6rWt66eI7J207YGs7IaM7Iuk7Y287Yq4!5e0!3m2!1sko!2skr!4v1729701046755!5m2!1sko!2skr" 
+        width="100%" 
+        height="450" 
+        style="border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
 </div>
-
 ---
 
 ## 🤝 후원사
