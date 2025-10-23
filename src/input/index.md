@@ -54,31 +54,47 @@
 <br/>
 
 ---
-
 ## 🎤 발표자
 <br/>
+
 이번 컨퍼런스에서는 국내외 다양한 분야의 전문가들이 함께합니다:
-
-- 발표자 모집중
-
-### 🗣️ 박송화  
-**발표 제목:** *WPF의 현재와 미래: .NET 10 시대에 다시 바라본 데스크톱 개발*  
-**발표 내용:**  
-WPF가 가진 기술적 정체성과 강점을 중심으로, .NET 10 환경에서의 주요 업데이트를 다루며 실시간 Demo를 통해 데스크톱 개발의 진화를 소개합니다.  
-
-**블로그:** [https://westahn.com/](https://westahn.com/)  
-
-<div class="row justify-content-center mb-4">
-    <div class="col-sm-12 col-md-6 text-center">
-        <img src="./assets/img/ParkSonghwa.jpg" class="img-fluid rounded-3 shadow-sm" alt="박송화 발표자">
-    </div>
-</div>
-
-발표자 라인업은 계속 업데이트됩니다!
 
 <br/>
 
----
+<div class="row justify-content-center">
+
+  <!-- 박송화 발표자 카드 -->
+  <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
+    <div class="card shadow-sm border-0 h-100 text-center">
+      <img src="./assets/img/ParkSonghwa.jpg" class="card-img-top rounded-top" alt="박송화 발표자">
+      <div class="card-body">
+        <h5 class="card-title fw-bold">박송화</h5>
+        <p class="text-muted mb-2">WPF의 현재와 미래: .NET 10 시대에 다시 바라본 데스크톱 개발</p>
+        <p class="card-text small">
+          WPF의 기술적 정체성과 강점을 중심으로, .NET 10 환경에서의 주요 업데이트를 다루며  
+          실시간 Demo를 통해 데스크톱 개발의 진화를 소개합니다.
+        </p>
+        <a href="https://westahn.com/" target="_blank" class="btn btn-outline-primary btn-sm rounded-pill mt-2">
+          블로그 방문하기
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 추가 발표자 예시 -->
+  <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
+    <div class="card shadow-sm border-0 h-100 text-center">
+      <div class="card-body d-flex align-items-center justify-content-center">
+        <span class="text-secondary">🚀 발표자 모집 중</span>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<p class="text-center mt-3">
+  발표자 라인업은 계속 업데이트됩니다!
+</p>
 
 ## 🙌 운영진
 <br/>
