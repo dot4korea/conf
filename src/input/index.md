@@ -36,28 +36,26 @@
 
 <div class="row justify-content-center align-items-center">
 
-  <!-- 인프라지스틱스 -->
   <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
-    <a href="https://www.infragistics.com/" target="_blank" class="text-decoration-none">
+    <a href="https://www.infragistics.co.kr/" target="_blank" class="text-decoration-none">
       <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-center" style="height:220px;">
         <img src="https://play-lh.googleusercontent.com/NnCnuXwCuQ4x25lS-WZsc4EEqosR3A6UIxsK5j_IjQjJNQJYUNHQNuvCgX-1FI0wXNk" 
              alt="인프라지스틱스 로고" 
              class="img-fluid mb-3" 
-             style="width:280px; height:auto; object-fit:contain;">
-        <h5 class="fw-bold text-dark">인프라지스틱스</h5>
+             style="max-width: 100%; max-height: 120px; object-fit: contain;">
+        <h5 class="fw-bold text-dark mt-auto">인프라지스틱스</h5>
       </div>
     </a>
   </div>
 
-  <!-- 길벗 -->
   <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
     <a href="https://www.gilbut.co.kr/" target="_blank" class="text-decoration-none">
       <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-center" style="height:220px;">
         <img src="https://eventusstorage.blob.core.windows.net/evs/UploadedFiles/gilbutit/TopLogoImage/4516f81d276249ed9b1dc8472c61c59f.png" 
              alt="길벗 로고" 
              class="img-fluid mb-3" 
-             style="width:280px; height:auto; object-fit:contain;">
-        <h5 class="fw-bold text-dark">길벗</h5>
+             style="max-width: 100%; max-height: 120px; object-fit: contain;">
+        <h5 class="fw-bold text-dark mt-auto">길벗</h5>
       </div>
     </a>
   </div>
@@ -75,9 +73,6 @@
 </p>
 
 <br/>
-
-
----
 
 ## 📢 발표제안 (Call for Speakers)
 <br/>
