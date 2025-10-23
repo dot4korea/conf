@@ -62,8 +62,6 @@
 
 </div>
 
-<br/>
-
 <p class="text-center text-secondary">
   기술 생태계의 발전을 함께 이끄는 파트너들에게 감사드립니다.
 </p>
