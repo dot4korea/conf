@@ -2,6 +2,10 @@
 ---
 
 **.NET Conf 2025 @Seoul**
+<div class="text-center">
+    <img src="./assets/img/dotnetconf.jpg" alt=".NET Conf 2025 @Seoul Banner" class="img-fluid">
+</div>
+
 전 세계 개발자 컨퍼런스 .NET Conf와 함께하는 한국 로컬 행사입니다.
 최신 .NET 기술 소식과 적용 사례를 공유하고,
 국내 개발자들의 경험과 인사이트를 나누는 자리입니다.
@@ -14,7 +18,7 @@
 ## 📅 행사일정
 <br/>
 
-- **장소** : 한국마이크로소프트 13층 | 서울특별시 종로구 종로1길 50 더케이트윈타워
+- **장소** : [한국마이크로소프트](https://maps.google.com/?cid=8257584141974728477&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNl) 13층 | 서울특별시 종로구 종로1길 50 더케이트윈타워
 - **일정 :** 11월 27일(목) 10시 ~ 17시
 - **참석접수 :** [온오프믹스 접수 페이지 바로가기](https://www.onoffmix.com/event/331906)
   
@@ -72,6 +76,17 @@
     </a>
   </div>
 
+   <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
+   <a href="https://www.youngjin.com/" target="_blank" class="text-decoration-none">
+     <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-center" style="height:220px;">
+       <img src="https://pbs.twimg.com/profile_images/1398089116810563587/PGfKYuvJ_400x400.jpg" 
+            alt="영진 출판사 로고" 
+            class="img-fluid mb-3" 
+            style="max-width: 100%; max-height: 120px; object-fit: contain;">
+       <h5 class="fw-bold text-dark mt-auto">영진 출판사</h5>
+     </div>
+   </a>
+ </div>
 </div>
 
 <p class="text-center text-secondary">
