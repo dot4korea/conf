@@ -32,9 +32,43 @@
 
 **.NET Conf 2025 @Seoul** 은 다음과 같은 후원사들의 지원으로 진행됩니다:
 
-- 후원모집중
+<br/>
 
-기술 생태계의 발전을 함께 이끄는 파트너들에게 감사드립니다.
+<div class="row justify-content-center align-items-center">
+
+  <!-- 인프라지스틱스 -->
+  <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4 text-center">
+    <a href="https://www.infragistics.com/" target="_blank">
+      <img src="https://play-lh.googleusercontent.com/NnCnuXwCuQ4x25lS-WZsc4EEqosR3A6UIxsK5j_IjQjJNQJYUNHQNuvCgX-1FI0wXNk" 
+           alt="인프라지스틱스 로고" 
+           class="img-fluid rounded-3 shadow-sm mb-2 p-2"
+           style="width:150px; height:auto; background-color:white;">
+      <h6 class="fw-bold text-dark mt-2">인프라지스틱스</h6>
+    </a>
+  </div>
+
+  <!-- 길벗 -->
+  <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4 text-center">
+    <a href="https://www.gilbut.co.kr/" target="_blank">
+      <img src="https://eventusstorage.blob.core.windows.net/evs/UploadedFiles/gilbutit/TopLogoImage/4516f81d276249ed9b1dc8472c61c59f.png" 
+           alt="길벗 로고" 
+           class="img-fluid rounded-3 shadow-sm mb-2 p-2"
+           style="width:150px; height:auto; background-color:white;">
+      <h6 class="fw-bold text-dark mt-2">길벗</h6>
+    </a>
+  </div>
+
+</div>
+
+<br/>
+
+<p class="text-center text-secondary">
+  기술 생태계의 발전을 함께 이끄는 파트너들에게 감사드립니다.
+</p>
+
+<p class="text-center text-muted small">
+  💡 후원사 모집 중입니다. 참여를 원하시면 문의해주세요!
+</p>
 
 <br/>
 
@@ -96,20 +130,10 @@
   발표자 라인업은 계속 업데이트됩니다!
 </p>
 
-## 🙌 운영진
-
-**.NET Conf 2025 @Seoul**은 커뮤니티 중심으로 운영됩니다.
-아래 운영진들이 행사를 준비하고 있습니다:
-
-- 
 
 ## 🙌 운영진
-<br/>
-
 **.NET Conf 2025 @Seoul**은 커뮤니티 중심으로 운영됩니다.  
 아래 운영진들이 열정적으로 행사를 준비하고 있습니다 🎉
-
-<br/>
 
 <div class="row justify-content-center">
 
