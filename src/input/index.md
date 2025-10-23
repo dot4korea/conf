@@ -131,7 +131,7 @@
       <img src="./assets/img/ParkSonghwa.jpg" class="card-img-top rounded-top" alt="박송화 발표자">
       <div class="card-body">
         <h5 class="card-title fw-bold">박송화</h5>
-        <p class="text-muted mb-2">WPF의 현재와 미래: .NET 10 시대에 다시 바라본 데스크톱 개발</p>
+        <p class="text-muted mb-2">WPF의 현재와 미래: .NET 10 시대에 <br> 다시 바라본 데스크톱 개발</p>
         <p class="card-text small">
           WPF의 기술적 정체성과 강점을 중심으로, .NET 10 환경에서의 주요 업데이트를 다루며  
           실시간 Demo를 통해 데스크톱 개발의 진화를 소개합니다.
