@@ -171,7 +171,7 @@
         <p class="text-muted mb-2">From Zero to Hero <br> cs 파일 하나로 시작하는 AI 친화적인 초고속 닷넷 앱 개발</p>
         <p class="card-text small">
           .NET 10.0의 <b>FBA 템플릿</b>을 이용해 <b>단일 .cs 파일</b>로 초경량 .NET 앱을 개발하는 방법을 소개합니다.<br> 
-          <b>AI MCP 서버</b> 및 <b>AOT 컴파일</b> 등 최신 기술을 활용한 빠르고 확장 가능한 앱 개발의 실전 데모와 팁을 제공합니다.<br> 
+          <b>AI MCP 서버</b> 및 <b>AOT 컴파일</b> 등 최신 기술을 활용한 빠르고 확장 가능한 앱 개발의 실전 데모와 팁을 제공<br> 
           <b>개발 속도와 생산성</b>을 극대화하고 싶은 .NET 개발자를 위한 세션입니다.
         </p>
       </div>
