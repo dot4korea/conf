@@ -134,12 +134,21 @@
 
 <br/>
 
+<style>
+/* * 이미지가 깨지지 않으면서(비율 유지) 고정된 높이를 갖도록 설정
+ * 모든 카드의 이미지가 통일된 높이를 가지면 전체 카드의 레이아웃 안정화에 도움을 줍니다.
+ */
+.card-img-top.speaker-img {
+    height: 250px; /* 원하는 고정 높이 설정 */
+    object-fit: cover; /* 이미지 비율을 유지하면서 지정된 공간을 꽉 채우도록 설정 */
+}
+</style>
+
 <div class="row justify-content-center">
 
-  <!-- 박송화 발표자 카드 -->
   <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
     <div class="card shadow-sm border-0 h-100 text-center">
-      <img src="./assets/img/ParkSonghwa.jpg" class="card-img-top rounded-top" alt="박송화 발표자">
+      <img src="./assets/img/ParkSonghwa.jpg" class="card-img-top rounded-top speaker-img" alt="박송화 발표자">
       <div class="card-body">
         <h5 class="card-title fw-bold">박송화 님</h5>
         <p class="text-muted mb-2">WPF의 현재와 미래: .NET 10 시대에 <br> 다시 바라본 데스크톱 개발</p>
@@ -154,18 +163,16 @@
     </div>
   </div>
 
-  <!-- 남정현 발표자 카드 -->
-
-<div class="col-sm-12 col-md-6 col-lg-4 mb-4">
+  <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
     <div class="card shadow-sm border-0 h-100 text-center">
-      <img src="./assets/img/nam.jpg" class="card-img-top rounded-top" alt="남정현 발표자">
+      <img src="./assets/img/nam.jpg" class="card-img-top rounded-top speaker-img" alt="남정현 발표자">
       <div class="card-body">
         <h5 class="card-title fw-bold">남정현 님</h5>
         <p class="text-muted mb-2">From Zero to Hero: cs 파일 하나로 시작하는 AI 친화적인 초고속 닷넷 앱 개발</p>
         <p class="card-text small">
-          .NET 10.0의 FBA 템플릿을 이용해 단일 .cs 파일로 초경량 .NET 앱을 개발하는 방법을 소개합니다. 
-          AI MCP 서버 및 AOT 컴파일 등 최신 기술을 활용한 빠르고 확장 가능한 앱 개발의 실전 데모와 팁을 제공합니다. 
-          개발 속도와 생산성을 극대화하고 싶은 .NET 개발자를 위한 세션입니다.
+          .NET 10.0의 **FBA 템플릿**을 이용해 **단일 .cs 파일**로 초경량 .NET 앱을 개발하는 방법을 소개합니다. 
+          **AI MCP 서버** 및 **AOT 컴파일** 등 최신 기술을 활용한 빠르고 확장 가능한 앱 개발의 실전 데모와 팁을 제공합니다. 
+          **개발 속도와 생산성**을 극대화하고 싶은 .NET 개발자를 위한 세션입니다.
         </p>
       </div>
     </div>
