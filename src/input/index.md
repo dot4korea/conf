@@ -154,16 +154,18 @@
     </div>
   </div>
 
-    <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
+  <!-- 남정현 발표자 카드 -->
+
+<div class="col-sm-12 col-md-6 col-lg-4 mb-4">
     <div class="card shadow-sm border-0 h-100 text-center">
       <img src="./assets/img/nam.jpg" class="card-img-top rounded-top" alt="남정현 발표자">
       <div class="card-body">
         <h5 class="card-title fw-bold">남정현 님</h5>
         <p class="text-muted mb-2">From Zero to Hero: cs 파일 하나로 시작하는 AI 친화적인 초고속 닷넷 앱 개발</p>
         <p class="card-text small">
-          .NET 10.0의 **File-based Application(FBA) 템플릿**을 활용하여 **단 하나의 .cs 파일**로 강력한 애플리케이션을 만드는 방법을 소개합니다. 
-          복잡한 프로젝트 구조 없이 시작하는 초경량 .NET 앱 개발 흐름과 **AI MCP 서버, AOT 컴파일** 등 최신 기능을 활용하여 
-          빠르게 확장 가능한 앱을 만드는 실전 데모와 팁을 제공합니다. 개발 속도와 생산성을 높이고 싶은 .NET 개발자를 위한 세션입니다.
+          .NET 10.0의 FBA 템플릿을 이용해 단일 .cs 파일로 초경량 .NET 앱을 개발하는 방법을 소개합니다. 
+          AI MCP 서버 및 AOT 컴파일 등 최신 기술을 활용한 빠르고 확장 가능한 앱 개발의 실전 데모와 팁을 제공합니다. 
+          개발 속도와 생산성을 극대화하고 싶은 .NET 개발자를 위한 세션입니다.
         </p>
       </div>
     </div>
