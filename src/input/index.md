@@ -154,6 +154,25 @@
     </div>
   </div>
 
+    <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
+    <div class="card shadow-sm border-0 h-100 text-center">
+      <img src="./assets/img/nam.jpg" class="card-img-top rounded-top" alt="남정현 발표자">
+      <div class="card-body">
+        <h5 class="card-title fw-bold">남정현 님</h5>
+        <p class="text-muted mb-2">From Zero to Hero: cs 파일 하나로 시작하는 AI 친화적인 초고속 닷넷 앱 개발</p>
+        <p class="card-text small">
+          .NET 10.0부터 도입된 File-based Application(FBA) 템플릿은 딱 하나의 .cs 파일만으로도 강력한 애플리케이션을 만들 
+          수 있는 새로운 개발 방식입니다. 이 세션에서는 복잡한 프로젝트 구조 없이도 시작할 수 있는 초경량 .NET 앱 개발의 
+          흐름을 소개하고, AI MCP 서버와 AOT 컴파일 등 최신 기능을 활용해 어떻게 빠르게 확장 가능한 앱을 만들 수 있는지 
+          실전 데모와 함께 살펴봅니다. 
+          * 단일 파일 기반의 .NET 앱 구조 이해 * 다양한 FBA 템플릿을 활용한 웹/데스크탑/AI 앱 개발
+          * AI MCP 서버 통합 및 AOT 컴파일 적용 사례 * C# 프로젝트로의 확장 전략과 실전 팁 개발 속도와 생산성을 
+          모두 잡고 싶은 .NET 개발자라면, 이 세션을 통해 “파일 하나로 시작하는” 새로운 가능성을 만나보세요.
+        </p>
+      </div>
+    </div>
+  </div>
+
   <!-- 추가 발표자 예시 -->
   <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
     <div class="card shadow-sm border-0 h-100 text-center">
