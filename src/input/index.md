@@ -178,6 +178,20 @@
     </div>
   </div>
 
+    <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
+    <div class="card shadow-sm border-0 h-100 text-center">
+      <img src="./assets/img/nam.jpg" class="card-img-top rounded-top speaker-img" alt="남정현 발표자">
+      <div class="card-body">
+        <h5 class="card-title fw-bold">박효철 님</h5>
+        <p class="text-muted mb-2">도메인주도개발을 수행해오면서 들었던 삽질들에 대해서</p>
+        <p class="card-text small">
+          Azure App Service에서의 사용을 전제로, Blazor의 3가지 모드(Server, WebAssembly, Auto)를 비교해 보고,<br>
+          효율적인 프로젝트 구성 및 사용 방법들을 소개하고, 닷넷 버전 변화에 따른 Access time 등 성능을 비교해 봅니다.
+        </p>
+      </div>
+    </div>
+  </div>
+
   <!-- 추가 발표자 예시 -->
   <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
     <div class="card shadow-sm border-0 h-100 text-center">
