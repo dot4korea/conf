@@ -181,21 +181,25 @@
   </div>
 
   <!-- 박효철 발표자 -->
-  <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
-    <div class="card shadow-sm border-0 h-100 text-center">
-      <img src="./assets/img/ParkHyocheol.jpg" class="card-img-top rounded-top speaker-img" alt="박효철 발표자">
-      <div class="card-body">
-        <h5 class="card-title fw-bold">박효철 님</h5>
-        <p class="text-muted mb-2">도메인주도개발을 수행해오면서 들었던 <br> 삽질들에 대해서</p>
-        <p class="card-text small">
-          도메인주도개발을 진행하면서 많은 삽을 들었었습니다. 도메인주도개발 그리고 마이크로서비스로 구현하는 과정 책에서는 보기 
-          힘든 보다 실전적인 내용들을 다루고자 합니다. 어쩌면 ... 흔하게 알고 계시던 것일 수도 있습니다. 
-          또는 상식을 파★괘★한다는 느낌일 수도 있겠네요.
-
-        </p>
-      </div>
+<div class="col-sm-12 col-md-6 col-lg-4 mb-4">
+  <div class="card shadow-sm border-0 h-100 text-center">
+    <img src="./assets/img/ParkHyocheol.jpg" class="card-img-top rounded-top speaker-img" alt="박효철 발표자">
+    <div class="card-body">
+      <h5 class="card-title fw-bold">박효철 님</h5>
+      <p class="text-muted mb-2">
+        도메인 주도 개발, 그리고 마이크로서비스로 가는 여정
+      </p>
+      <p class="card-text small">
+        도메인 주도 개발(DDD)을 진행하면서 수많은 ‘삽질’을 경험했습니다.<br>
+        이번 세션에서는 DDD와 마이크로서비스를 실제 프로젝트에 적용하는 과정에서 부딪혔던<br>
+        문제들과 그 해결책을 솔직하게 공유합니다.<br><br>
+        책에서는 보기 힘든, 보다 <b>실전적인 사례</b>와 함께<br>
+        때로는 여러분이 알고 계신 상식을 <b>파★괘★</b>할지도 모르는 이야기들을 들려드립니다.
+      </p>
     </div>
   </div>
+</div>
+
 
   <!-- 추가 발표자 예시 -->
   <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
