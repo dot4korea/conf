@@ -189,7 +189,7 @@
         <p class="text-muted mb-2">도메인주도개발을 수행해오면서 들었던 <br> 삽질들에 대해서</p>
         <p class="card-text small">
           Azure App Service에서의 사용을 전제로, Blazor의 3가지 모드(<b>Server</b>, <b>WebAssembly</b>, <b>Auto</b>)를 비교해 보고,  
-          효율적인 프로젝트 구성 및 사용 방법들을 소개합니다.<br>  
+          효율적인 프로젝트 구성 및 사용 방법들을 <br> 소개합니다.<br>  
           닷넷 버전 변화에 따른 Access time 등 <b>성능 비교</b>와 실전 경험을 공유합니다.
         </p>
       </div>
