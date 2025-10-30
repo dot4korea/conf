@@ -186,7 +186,7 @@
       <img src="./assets/img/ParkHyocheol.jpg" class="card-img-top rounded-top speaker-img" alt="박효철 발표자">
       <div class="card-body">
         <h5 class="card-title fw-bold">박효철 님</h5>
-        <p class="text-muted mb-2">도메인주도개발을 수행해오면서 들었던 삽질들에 대해서</p>
+        <p class="text-muted mb-2">도메인주도개발을 수행해오면서 들었던 <br> 삽질들에 대해서</p>
         <p class="card-text small">
           Azure App Service에서의 사용을 전제로, Blazor의 3가지 모드(<b>Server</b>, <b>WebAssembly</b>, <b>Auto</b>)를 비교해 보고,  
           효율적인 프로젝트 구성 및 사용 방법들을 소개합니다.<br>  
