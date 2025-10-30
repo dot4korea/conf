@@ -135,12 +135,23 @@
 <br/>
 
 <style>
-/* * 이미지가 깨지지 않으면서(비율 유지) 고정된 높이를 갖도록 설정
- * 모든 카드의 이미지가 통일된 높이를 가지면 전체 카드의 레이아웃 안정화에 도움을 줍니다.
- */
+/* 🖼️ 개선된 이미지 스타일: 비율(예: 16:9)을 유지하여 반응형 환경에서도 적절한 크기를 갖도록 합니다. */
 .card-img-top.speaker-img {
-    height: 380px; /* 원하는 고정 높이 설정 */
-    object-fit: cover; /* 이미지 비율을 유지하면서 지정된 공간을 꽉 채우도록 설정 */
+    /* height: 380px;  - 고정 높이 대신, 아래의 aspect-ratio를 사용합니다. */
+    aspect-ratio: 16 / 9; /* 이미지의 가로:세로 비율을 지정 (예: 16:9) */
+    object-fit: cover; /* 비율을 유지하며 지정된 공간을 꽉 채우도록 설정 */
+}
+/* 마지막 카드의 '발표자 모집 중' 영역을 위한 스타일 (이미지 영역만큼 높이를 확보) */
+.speaker-placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* 이미지와 동일한 크기 속성 적용 */
+    aspect-ratio: 16 / 9; 
+    min-height: 200px; /* 최소 높이 설정 (aspect-ratio와 함께 사용) */
+    background-color: #f8f9fa; /* 배경색으로 구분 */
+    border-top-left-radius: calc(0.25rem - 1px);
+    border-top-right-radius: calc(0.25rem - 1px);
 }
 </style>
 
@@ -192,12 +203,19 @@
     </div>
   </div>
 
-  <!-- 추가 발표자 예시 -->
   <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
     <div class="card shadow-sm border-0 h-100 text-center">
-      <div class="card-body d-flex align-items-center justify-content-center">
-        <span class="text-secondary">🚀 발표자 모집 중</span>
+      <div class="speaker-placeholder">
+        <span class="text-secondary fw-bold fs-5">🚀 발표자 모집 중</span>
       </div>
+      <div class="card-body">
+        <h5 class="card-title fw-bold">당신의 이야기를 들려주세요</h5>
+        <p class="text-muted mb-2">다양한 분야의 .NET 전문가를 기다립니다.</p>
+        <p class="card-text small">
+          .NET, 클라우드, AI 등 어떤 주제든 좋습니다. 
+          여러분의 경험과 지식을 커뮤니티와 공유해 주세요.
+        </p>
+        </div>
     </div>
   </div>
 
