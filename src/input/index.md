@@ -185,11 +185,9 @@
           <div class="card-body">
             <h5 class="card-title fw-bold">박효철 님</h5>
             <p class="text-muted mb-2">
-              도메인 주도 개발(DDD)을 수행하며 얻은 인사이트와 시행착오
             </p>
             <p class="card-text small">
-              Azure App Service 환경에서 Blazor의 3가지 모드(Server, WebAssembly, Auto)를 비교하며,<br>
-              효율적인 프로젝트 구성 및 버전에 따른 성능 차이를 실측 데이터와 함께 공유합니다.
+              
             </p>
           </div>
         </div>
