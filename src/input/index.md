@@ -180,7 +180,7 @@
 
     <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
     <div class="card shadow-sm border-0 h-100 text-center">
-      <img src="./assets/img/ParkHyocheol.jpg" class="card-img-top rounded-top speaker-img" alt="남정현 발표자">
+      <img src="./assets/img/ParkHyocheol.jpg" class="card-img-top rounded-top speaker-img" alt="박효철 발표자">
       <div class="card-body">
         <h5 class="card-title fw-bold">박효철 님</h5>
         <p class="text-muted mb-2">도메인주도개발을 수행해오면서 들었던 삽질들에 대해서</p>
