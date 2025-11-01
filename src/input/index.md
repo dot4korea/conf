@@ -202,7 +202,7 @@
       <img src="./assets/img/lee.jpg" class="card-img-top rounded-top speaker-img" alt="이종인 발표자">
       <div class="card-body">
         <h5 class="card-title fw-bold">이종인 님</h5>
-        <p class="text-muted mb-2">.NET으로 손쉽게 만드는 AI 앱 : Microsoft Agent Framework 알아보기</p>
+        <p class="text-muted mb-2">.NET으로 손쉽게 만드는 AI 앱 <br> : Microsoft Agent Framework 알아보기</p>
         <p class="card-text small">
           .NET에서도 이제 AI 기능을 손쉽게, 그리고 파이썬 못지않게 강력하게 활용할 수 있습니다.<br>
           이번 세션에서는 여러분이 .NET으로 만든 로직과 앱에 Microsoft Agent Framework를 활용해<br>
