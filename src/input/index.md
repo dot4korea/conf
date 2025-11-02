@@ -244,8 +244,7 @@
     <div class="card-body d-flex flex-column align-items-center justify-content-center">
       <img src="./assets/img/Dot.png" 
            alt="DotNetBot" 
-           class="mb-3"
-           style="width:120px; height:auto;" />
+           class="mb-3"/>
       <span class="text-secondary">🚀 발표자 모집 중</span>
     </div>
   </div>
