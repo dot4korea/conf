@@ -192,8 +192,6 @@
           책에서는 보기 힘든, 보다 <b>실전적인 사례</b>와 함께<br>
           때로는 여러분이 알고 계신 상식을 <b>파★괘★</b>할지도 모르는 이야기들을 들려드립니다.
         </p>
-        
-        </a>
       </div>
     </div>
   </div>
@@ -210,8 +208,9 @@
           이번 세션에서는 여러분이 .NET으로 만든 로직과 앱에 Microsoft Agent Framework를 활용해<br>
           AI를 어떻게 통합하고 더욱 강력하게 발전시킬 수 있는지 함께 이야기해보려 합니다.
         </p>
-            <a href="https://apps.microsoft.com/store/detail/9N2B3KSFT8CD" target="_blank"  class="btn btn-primary btn-sm mt-2">
-            Me Calendar 다운로드
+         <a href="https://apps.microsoft.com/store/detail/9N2B3KSFT8CD" target="_blank" class="btn btn-outline-primary btn-sm rounded-pill mt-2">
+          Me Calendar
+        </a>
       </div>
     </div>
   </div>
