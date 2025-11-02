@@ -215,6 +215,29 @@
     </div>
   </div>
 
+ <!-- BlazorTreasure 발표자 -->
+  <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
+    <div class="card shadow-sm border-0 h-100 text-center">
+      <img src="./assets/img/BlazorTreasure.png" class="card-img-top rounded-top speaker-img" alt="BlazorTreasure 발표자">
+      <div class="card-body">
+        <h5 class="card-title fw-bold">BlazorTreasure 님</h5>
+        <p class="text-muted mb-2">
+          .NET 10 시대의 Blazor:<br>
+          개발자가 알아야 할 변화와 실전 팁
+        </p>
+        <p class="card-text small">
+          .NET 10에서 Blazor는 한 단계 더 진화했습니다.<br>
+          이번 세션에서는 새로운 렌더링 모델, 성능 향상 포인트,<br>
+          그리고 실무에서 바로 적용 가능한 Blazor 활용 팁을 함께 나눕니다.
+        </p>
+        <a href="https://www.youtube.com/@BlazorTreasure" target="_blank" class="btn btn-outline-primary btn-sm rounded-pill mt-2">
+          BlazorTreasure 유튜브 접속하기
+        </a>
+      </div>
+    </div>
+  </div>
+
+
   <!-- 추가 발표자 예시 -->
   <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
     <div class="card shadow-sm border-0 h-100 text-center">
