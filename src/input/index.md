@@ -245,7 +245,7 @@
       <img src="./assets/img/Dot.png" 
            alt="DotNetBot" 
            class="mb-3"
-           style="width:310px; height:430;" />
+           style="width:340px; height:520;" />
       <span class="text-secondary">🚀 발표자 모집 중</span>
     </div>
   </div>
