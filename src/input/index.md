@@ -238,14 +238,19 @@
   </div>
 
 
-  <!-- 추가 발표자 예시 -->
-  <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
-    <div class="card shadow-sm border-0 h-100 text-center">
-      <div class="card-body d-flex align-items-center justify-content-center">
-        <span class="text-secondary">🚀 발표자 모집 중</span>
-      </div>
+<!-- 추가 발표자 예시 -->
+<div class="col-sm-12 col-md-6 col-lg-4 mb-4">
+  <div class="card shadow-sm border-0 h-100 text-center">
+    <div class="card-body d-flex flex-column align-items-center justify-content-center">
+      <img src="./assets/img/Dot.png" 
+           alt="DotNetBot" 
+           class="mb-3"
+           style="width:120px; height:auto;" />
+      <span class="text-secondary">🚀 발표자 모집 중</span>
     </div>
   </div>
+</div>
+
 
 </div>
 
