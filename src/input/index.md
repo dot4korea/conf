@@ -227,7 +227,7 @@
         </p>
         <p class="card-text small">
           .NET 10에서 Blazor는 한 단계 더 진화했습니다.<br>
-          이번 세션에서는 새로운 렌더링 모델, 성능 향상 포인트,<br>
+          이번 세션에서는 새로운 렌더링 모델, <br> 성능 향상 포인트,
           그리고 실무에서 바로 적용 가능한 Blazor 활용 팁을 함께 나눕니다.
         </p>
         <a href="https://www.youtube.com/@BlazorTreasure" target="_blank" class="btn btn-outline-primary btn-sm rounded-pill mt-2">
