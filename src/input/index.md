@@ -196,21 +196,32 @@
     </div>
   </div>
 
-  <!-- 이종인 발표자 (추가) -->
-  <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
-    <div class="card shadow-sm border-0 h-100 text-center">
-      <img src="./assets/img/lee.jpg" class="card-img-top rounded-top speaker-img" alt="이종인 발표자">
-      <div class="card-body">
-        <h5 class="card-title fw-bold">이종인 님</h5>
-        <p class="text-muted mb-2">.NET으로 손쉽게 만드는 AI 앱 <br>  Microsoft Agent Framework 알아보기</p>
-        <p class="card-text small">
-          .NET에서도 이제 AI 기능을 손쉽게, 그리고 파이썬 못지않게 강력하게 활용할 수 있습니다.<br>
-          이번 세션에서는 여러분이 .NET으로 만든 로직과 앱에 Microsoft Agent Framework를 활용해<br>
-          AI를 어떻게 통합하고 더욱 강력하게 발전시킬 수 있는지 함께 이야기해보려 합니다.
-        </p>
-      </div>
+ <!-- 이종인 발표자 (추가) -->
+<div class="col-sm-12 col-md-6 col-lg-4 mb-4">
+  <div class="card shadow-sm border-0 h-100 text-center">
+    <img src="./assets/img/lee.jpg" class="card-img-top rounded-top speaker-img" alt="이종인 발표자">
+    <div class="card-body">
+      <h5 class="card-title fw-bold">이종인 님</h5>
+      <p class="text-muted mb-2">
+        .NET으로 손쉽게 만드는 AI 앱 <br>
+        Microsoft Agent Framework 알아보기
+      </p>
+      <p class="card-text small">
+        .NET에서도 이제 AI 기능을 손쉽게, 그리고 파이썬 못지않게 강력하게 활용할 수 있습니다.<br>
+        이번 세션에서는 여러분이 .NET으로 만든 로직과 앱에 Microsoft Agent Framework를 활용해<br>
+        AI를 어떻게 통합하고 더욱 강력하게 발전시킬 수 있는지 함께 이야기해보려 합니다.
+      </p>
+
+      <!-- ✅ Me Calendar 다운로드 버튼 추가 -->
+      <a href="https://apps.microsoft.com/store/detail/9N2B3KSFT8CD"
+         target="_blank"
+         class="btn btn-primary btn-sm mt-2">
+        Me Calendar 다운로드
+      </a>
+
     </div>
   </div>
+</div>
 
   <!-- 추가 발표자 예시 -->
   <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
