@@ -222,7 +222,7 @@
       <div class="card-body">
         <h5 class="card-title fw-bold">BlazorTreasure 님</h5>
         <p class="text-muted mb-2">
-          .NET 10 시대의 Blazor:<br>
+          .NET 10 시대의 Blazor<br>
           개발자가 알아야 할 변화와 실전 팁
         </p>
         <p class="card-text small">
