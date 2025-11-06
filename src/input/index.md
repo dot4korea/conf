@@ -96,30 +96,24 @@
 </div>
 
 <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
-   <a href="https://www.diypia.com/" target="_blank" class="text-decoration-none">
-     <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-center" style="height:220px;">
-       <img src="./assets/img/DIYPIA_LOGO_S.png" 
-            alt="다이피아 로고" 
-            class="img-fluid mb-3" 
-            style="max-width: 100%; max-height: 120px; object-fit: contain;">
-       <h5 class="fw-bold text-dark mt-auto">다이피아</h5>
-     </div>
-   </a>
- </div>
-</div>
-
-<div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
-  <a href="http://www.khsystems.co.kr/" target="_blank" class="text-decoration-none">
-    <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-center" style="height:220px;">
-      <img src="./assets/img/khsystems.png" 
-           alt="KHSYSTEMS 로고" 
-           class="img-fluid mb-3" 
-           style="max-width: 100%; max-height: 120px; object-fit: contain;">
-      <h5 class="fw-bold text-dark mt-auto">KHSYSTEMS</h5>
+        <a href="https://www.diypia.com/" target="_blank" class="text-decoration-none">
+            <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-center" style="height:220px;">
+                <img src="./assets/img/DIYPIA_LOGO_S.png" alt="다이피아 로고" class="img-fluid mb-3" style="max-width: 100%; max-height: 120px; object-fit: contain;">
+                <h5 class="fw-bold text-dark mt-auto">다이피아</h5>
+            </div>
+        </a>
     </div>
-  </a>
-</div>
+    
+    <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
+        <a href="http://www.khsystems.co.kr/" target="_blank" class="text-decoration-none">
+            <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-center" style="height:220px;">
+                <img src="./assets/img/khsystems.png" alt="KHSYSTEMS 로고" class="img-fluid mb-3" style="max-width: 100%; max-height: 120px; object-fit: contain;">
+                <h5 class="fw-bold text-dark mt-auto">KHSYSTEMS</h5>
+            </div>
+        </a>
+    </div>
 
+</div>
 
 
 <p class="text-center text-secondary">
