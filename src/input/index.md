@@ -34,9 +34,9 @@
 <br/>
 
 <div class="text-center mt-4 mb-5">
-  <a href="https://forms.office.com/r/3cMZLnaq1X" target="_blank" class="btn btn-primary btn-lg px-5 py-3 fw-bold">
-    후원사 신청하기
-  </a>
+  <a href="https://forms.office.com/r/3cMZLnaq1X" target="_blank" class="btn btn-primary btn-lg px-5 py-3 fw-bold">
+    후원사 신청하기
+  </a>
 </div>
 
 <br/>
@@ -46,81 +46,83 @@
 
 <div class="row justify-content-center align-items-center">
 
-  <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
-    <a href="https://www.microsoft.com/ko-kr/" target="_blank" class="text-decoration-none">
-      <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-center" style="height:220px;">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ-P6doILlCsrP8GAuwDows6RCRkjKW6s-GQ&s" 
-             alt="마이크로소프트 로고" 
-             class="img-fluid mb-3" 
-             style="max-width: 100%; max-height: 120px; object-fit: contain;">
-        <h5 class="fw-bold text-dark mt-auto">마이크로소프트</h5>
-      </div>
-    </a>
-  </div>
+  <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
+    <a href="https://www.microsoft.com/ko-kr/" target="_blank" class="text-decoration-none">
+      <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-center" style="height:220px;">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ-P6doILlCsrP8GAuwDows6RCRkjKW6s-GQ&s" 
+             alt="마이크로소프트 로고" 
+             class="img-fluid mb-3" 
+             style="max-width: 100%; max-height: 120px; object-fit: contain;">
+        <h5 class="fw-bold text-dark mt-auto">마이크로소프트</h5>
+      </div>
+    </a>
+  </div>
 
-  <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
-    <a href="https://www.infragistics.co.kr/" target="_blank" class="text-decoration-none">
-      <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-center" style="height:220px;">
-        <img src="https://play-lh.googleusercontent.com/NnCnuXwCuQ4x25lS-WZsc4EEqosR3A6UIxsK5j_IjQjJNQJYUNHQNuvCgX-1FI0wXNk" 
-             alt="인프라지스틱스 로고" 
-             class="img-fluid mb-3" 
-             style="max-width: 100%; max-height: 120px; object-fit: contain;">
-        <h5 class="fw-bold text-dark mt-auto">인프라지스틱스</h5>
-      </div>
-    </a>
-  </div>
+  <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
+    <a href="https://www.infragistics.co.kr/" target="_blank" class="text-decoration-none">
+      <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-center" style="height:220px;">
+        <img src="https://play-lh.googleusercontent.com/NnCnuXwCuQ4x25lS-WZsc4EEqosR3A6UIxsK5j_IjQjJNQJYUNHQNuvCgX-1FI0wXNk" 
+             alt="인프라지스틱스 로고" 
+             class="img-fluid mb-3" 
+             style="max-width: 100%; max-height: 120px; object-fit: contain;">
+        <h5 class="fw-bold text-dark mt-auto">인프라지스틱스</h5>
+      </div>
+    </a>
+  </div>
 
-  <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
-    <a href="https://www.gilbut.co.kr/" target="_blank" class="text-decoration-none">
-      <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-center" style="height:220px;">
-        <img src="https://eventusstorage.blob.core.windows.net/evs/UploadedFiles/gilbutit/TopLogoImage/4516f81d276249ed9b1dc8472c61c59f.png" 
-             alt="길벗 로고" 
-             class="img-fluid mb-3" 
-             style="max-width: 100%; max-height: 120px; object-fit: contain;">
-        <h5 class="fw-bold text-dark mt-auto">길벗</h5>
-      </div>
-    </a>
-  </div>
+  <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
+    <a href="https://www.gilbut.co.kr/" target="_blank" class="text-decoration-none">
+      <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-center" style="height:220px;">
+        <img src="https://eventusstorage.blob.core.windows.net/evs/UploadedFiles/gilbutit/TopLogoImage/4516f81d276249ed9b1dc8472c61c59f.png" 
+             alt="길벗 로고" 
+             class="img-fluid mb-3" 
+             style="max-width: 100%; max-height: 120px; object-fit: contain;">
+        <h5 class="fw-bold text-dark mt-auto">길벗</h5>
+      </div>
+    </a>
+  </div>
 
-   <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
-   <a href="https://www.youngjin.com/" target="_blank" class="text-decoration-none">
-     <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-center" style="height:220px;">
-       <img src="https://pbs.twimg.com/profile_images/1398089116810563587/PGfKYuvJ_400x400.jpg" 
-            alt="영진 출판사 로고" 
-            class="img-fluid mb-3" 
-            style="max-width: 100%; max-height: 120px; object-fit: contain;">
-       <h5 class="fw-bold text-dark mt-auto">영진 출판사</h5>
-     </div>
-   </a>
- </div>
+   <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
+   <a href="https://www.youngjin.com/" target="_blank" class="text-decoration-none">
+     <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-center" style="height:220px;">
+       <img src="https://pbs.twimg.com/profile_images/1398089116810563587/PGfKYuvJ_400x400.jpg" 
+            alt="영진 출판사 로고" 
+            class="img-fluid mb-3" 
+            style="max-width: 100%; max-height: 120px; object-fit: contain;">
+       <h5 class="fw-bold text-dark mt-auto">영진 출판사</h5>
+     </div>
+   </a>
+ </div>
+</div>
+
+<div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
+        <a href="https://www.diypia.com/" target="_blank" class="text-decoration-none">
+            <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-center" style="height:220px;">
+                <img src="./assets/img/DIYPIA_LOGO_S.png" alt="다이피아 로고" class="img-fluid mb-3" style="max-width: 100%; max-height: 120px; object-fit: contain;">
+                <h5 class="fw-bold text-dark mt-auto">다이피아</h5>
+            </div>
+        </a>
+    </div>
     
-        <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
-        <a href="https://www.diypia.com/" target="_blank" class="text-decoration-none">
-            <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-center" style="height:220px;">
-                <img src="./assets/img/DIYPIA_LOGO_S.png" alt="다이피아 로고" class="img-fluid mb-3" style="max-width: 100%; max-height: 120px; object-fit: contain;">
-                <h5 class="fw-bold text-dark mt-auto">다이피아</h5>
-            </div>
-        </a>
-    </div>
-    
-        <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
-        <a href="http://www.khsystems.co.kr/" target="_blank" class="text-decoration-none">
-            <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-center" style="height:220px;">
-                <img src="./assets/img/khsystems.png" alt="KHSYSTEMS 로고" class="img-fluid mb-3" style="max-width: 100%; max-height: 120px; object-fit: contain;">
-                <h5 class="fw-bold text-dark mt-auto">KHSYSTEMS</h5>
-            </div>
-        </a>
-    </div>
-
+<div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
+  <a href="http://www.khsystems.co.kr/" target="_blank" class="text-decoration-none">
+    <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-center" style="height:220px;">
+      <img src="./assets/img/khsystems.png" 
+           alt="KHSYSTEMS 로고" 
+           class="img-fluid mb-3" 
+           style="max-width: 100%; max-height: 120px; object-fit: contain;">
+      <h5 class="fw-bold text-dark mt-auto">KHSYSTEMS</h5>
+    </div>
+  </a>
 </div>
 
 
 <p class="text-center text-secondary">
-  기술 생태계의 발전을 함께 이끄는 파트너들에게 감사드립니다.
+  기술 생태계의 발전을 함께 이끄는 파트너들에게 감사드립니다.
 </p>
 
 <p class="text-center text-muted small">
-  💡 후원사 모집 중입니다. 참여를 원하시면 문의해주세요!
+  💡 후원사 모집 중입니다. 참여를 원하시면 문의해주세요!
 </p>
 
 <br/>
