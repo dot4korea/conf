@@ -16,8 +16,8 @@
 <br/>
 
 - **장소** : [한국마이크로소프트](https://maps.google.com/?cid=8257584141974728477&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNl) 13층 | 서울특별시 종로구 종로1길 50 더케이트윈타워
-- **일정 :** 11월 27일(목) 10시 ~ 17시
-- **참석접수 :** [온오프믹스 접수 페이지 바로가기](https://www.onoffmix.com/event/331906)
+- **일정 :** 11월 27일(목) 10시 ~ 17시(점심식사 제공)
+- **참석접수 :** **[온오프믹스 접수 페이지 바로가기](https://www.onoffmix.com/event/331906)**
   
 
 <div style="margin-top: 20px; margin-bottom: 20px;">
@@ -103,6 +103,19 @@
             class="img-fluid mb-3" 
             style="max-width: 100%; max-height: 120px; object-fit: contain;">
        <h5 class="fw-bold text-dark mt-auto">다이피아</h5>
+     </div>
+   </a>
+ </div>
+</div>
+
+<div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
+   <a href="http://www.khsystems.co.kr/" target="_blank" class="text-decoration-none">
+     <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-center" style="height:220px;">
+       <img src="./assets/img/khSystems.png" 
+            alt="KHSYSTEMS로고" 
+            class="img-fluid mb-3" 
+            style="max-width: 100%; max-height: 120px; object-fit: contain;">
+       <h5 class="fw-bold text-dark mt-auto">KHSYSTEMS</h5>
      </div>
    </a>
  </div>
