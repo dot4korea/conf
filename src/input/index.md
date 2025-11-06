@@ -108,10 +108,10 @@
  </div>
 </div>
 
-<div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
+   <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
    <a href="http://www.khsystems.co.kr/" target="_blank" class="text-decoration-none">
      <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-center" style="height:220px;">
-       <img src="./assets/img/khSystems.png" 
+       <img src=./assets/img/khSystems.png" 
             alt="KHSYSTEMS로고" 
             class="img-fluid mb-3" 
             style="max-width: 100%; max-height: 120px; object-fit: contain;">
@@ -120,6 +120,7 @@
    </a>
  </div>
 </div>
+
 
 <p class="text-center text-secondary">
   기술 생태계의 발전을 함께 이끄는 파트너들에게 감사드립니다.
