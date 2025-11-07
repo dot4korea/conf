@@ -261,6 +261,21 @@
     </div>
   </div>
 
+  <!-- 새 발표자: 박경선 -->
+<div class="col-sm-12 col-md-6 col-lg-4 mb-4">
+    <div class="card shadow-sm border-0 h-100 text-center">
+        <img src="./assets/img/Parkkyungsun.jpg" class="card-img-top rounded-top speaker-img" alt="박경선 발표자">
+        <div class="card-body">
+            <h5 class="card-title fw-bold">박경선 님</h5>
+            <p class="text-muted mb-2">아직도 직접 구현중? <br> LLM 직접 구현할 시간에 난 깐x치킨 간다</p>
+             <p class="card-text small">
+            다양한 LLM 제공자를 하나의 방식으로 사용할 수 있는 <b>Microsoft.Extensions.AI (MEAI)</b> 기반 개발 방법을 소개합니다.<br>
+            <b>OpenChat Playground</b> 오픈소스 프로젝트를 통해 다양한 모델을 손쉽게 교체하고 실험할 수 있는 방법을 공유합니다.<br>
+            LLM 교체와 확장성을 극대화한 실전 활용법과 커뮤니티 기여 배경까지 함께 다룹니다.
+    </p>
+</div>
+</div>
+</div>
 
 <!-- 추가 발표자 예시 -->
 <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
