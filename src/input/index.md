@@ -264,7 +264,7 @@
   <!-- 새 발표자: 박경선 -->
 <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
     <div class="card shadow-sm border-0 h-100 text-center">
-        <img src="./assets/img/Parkkyungsun.jpg" class="card-img-top rounded-top speaker-img" alt="박경선 발표자">
+        <img src="./assets/img/Parkkyungsun.png" class="card-img-top rounded-top speaker-img" alt="박경선 발표자">
         <div class="card-body">
             <h5 class="card-title fw-bold">박경선 님</h5>
             <p class="text-muted mb-2">아직도 직접 구현중? <br> LLM 직접 구현할 시간에 난 깐x치킨 간다</p>
