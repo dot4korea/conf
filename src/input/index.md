@@ -280,7 +280,7 @@
 <!-- 발표자: 김준형 -->
   <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
     <div class="card shadow-sm border-0 h-100 text-center">
-      <img src="./assets/img/vagabondk.png" class="card-img-top rounded-top speaker-img" alt="김준형 발표자">
+      <img src="./assets/img/Vagabondk.png" class="card-img-top rounded-top speaker-img" alt="김준형 발표자">
       <div class="card-body">
         <h5 class="card-title fw-bold">김준형 님</h5>
         <p class="text-muted mb-2">
