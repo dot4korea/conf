@@ -261,7 +261,7 @@
     </div>
   </div>
 
-  <!-- 새 발표자: 박경선 -->
+  <!-- 발표자: 박경선 -->
 <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
     <div class="card shadow-sm border-0 h-100 text-center">
         <img src="./assets/img/Parkkyungsun.png" class="card-img-top rounded-top speaker-img" alt="박경선 발표자">
@@ -277,6 +277,28 @@
 </div>
 </div>
 
+<!-- 발표자: 김준형 -->
+  <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
+    <div class="card shadow-sm border-0 h-100 text-center">
+      <img src="./assets/img/vagabondk.png" class="card-img-top rounded-top speaker-img" alt="김준형 발표자">
+      <div class="card-body">
+        <h5 class="card-title fw-bold">김준형 님</h5>
+        <p class="text-muted mb-2">
+          WPF 사용자의 Web Front-end 적응기: <br>
+          Blazor와 Inline SVG, SMIL의 케미스트리
+        </p>
+        <p class="card-text small">
+          회사에서 주로 WPF로 만들어왔던 설비 모니터링 화면들을 Blazor에서 재현하는 과정에서  
+          Inline SVG, SMIL 등 웹 기술을 활용한 경험을 공유합니다.<br>
+          또한 해당 기술들을 토대로 제작한<br>
+          Blazor 기반 <b>테트리스 게임</b> 토이 프로젝트 적용 사례도 소개합니다.
+        </p>
+        <a href="https://vagabond-k.com" target="_blank" class="btn btn-outline-primary btn-sm rounded-pill mt-2">
+          블로그 방문하기
+        </a>
+      </div>
+    </div>
+  </div>
 <!-- 추가 발표자 예시 -->
 <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
   <div class="card shadow-sm border-0 h-100 text-center">
