@@ -284,7 +284,7 @@
       <div class="card-body">
         <h5 class="card-title fw-bold">김준형 님</h5>
         <p class="text-muted mb-2">
-          WPF 사용자의 Web Front-end 적응기: <br>
+          WPF 사용자의 Web Front-end 적응기 <br>
           Blazor와 Inline SVG, SMIL의 케미스트리
         </p>
         <p class="card-text small">
