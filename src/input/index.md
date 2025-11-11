@@ -17,7 +17,6 @@
 
 - **장소** : [한국마이크로소프트](https://maps.google.com/?cid=8257584141974728477&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNl) 13층 | 서울특별시 종로구 종로1길 50 더케이트윈타워
 - **일정 :** 11월 27일(목) 10시 ~ 17시(점심식사 제공)
-- 
 <div class="mt-3 mb-4">
   <a href="https://www.onoffmix.com/event/331906" target="_blank" 
      class="btn btn-primary btn-lg px-4 py-2 fw-bold">
