@@ -59,7 +59,7 @@
               object-fit: contain;
               min-width: 72px;
               min-height: 16px;
-              margin-top: 25px; 
+              margin-top: 40px; 
            ">
       
       <h5 class="fw-bold text-dark mt-auto">마이크로소프트</h5>
