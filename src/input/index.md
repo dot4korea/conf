@@ -17,9 +17,13 @@
 
 - **장소** : [한국마이크로소프트](https://maps.google.com/?cid=8257584141974728477&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNl) 13층 | 서울특별시 종로구 종로1길 50 더케이트윈타워
 - **일정 :** 11월 27일(목) 10시 ~ 17시(점심식사 제공)
-- **참석접수 :** **[온오프믹스 접수 페이지 바로가기](https://www.onoffmix.com/event/331906)**
-  
-
+- 
+<div class="mt-3 mb-4">
+  <a href="https://www.onoffmix.com/event/331906" target="_blank" 
+     class="btn btn-primary btn-lg px-4 py-2 fw-bold">
+    ✅ 신청하기
+  </a>
+</div>
 <div style="margin-top: 20px; margin-bottom: 20px;">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1581.0870766812911!2d126.9785586013715!3d37.57451660387266!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca413fe38a245%3A0x7298d506cd4d6f1d!2z7ZWc6rWt66eI7J207YGs66Gc7IaM7ZSE7Yq4!5e0!3m2!1sko!2skr!4v1761207959163!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
 </iframe>
@@ -146,13 +150,12 @@
 여러분의 이야기를 들려주세요!
 
 - **발표 시간:** 45분
-- **발표 제안 마감:** 11월 09일(일) 오후 5시
 
 <br/>
 
 <div class="text-center mt-4 mb-5">
-  <a href="https://forms.cloud.microsoft/r/9NES5afsta" target="_blank" class="btn btn-primary btn-lg px-5 py-3 fw-bold">
-    발표자 신청하기
+  <a href="https://open.kakao.com/me/kimozex" target="_blank" class="btn btn-primary btn-lg px-5 py-3 fw-bold">
+    발표 문의해보기
   </a>
 </div>
 
