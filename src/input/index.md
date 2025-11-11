@@ -48,9 +48,8 @@
 
 <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
   <a href="https://www.microsoft.com/ko-kr/" target="_blank" class="text-decoration-none">
-    <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center" style="height:220px; padding-top: 160px;">
+    <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-start" style="height:220px;">
       
-    
       <img src="./assets/img/microsoft-logo-vector.svg"
            alt="마이크로소프트 로고"
            class="img-fluid mb-3"
@@ -60,6 +59,7 @@
               object-fit: contain;
               min-width: 72px;
               min-height: 16px;
+              margin-top: 25px; 
            ">
       
       <h5 class="fw-bold text-dark mt-auto">마이크로소프트</h5>
