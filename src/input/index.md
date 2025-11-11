@@ -48,7 +48,7 @@
 
 <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
   <a href="https://www.microsoft.com/ko-kr/" target="_blank" class="text-decoration-none">
-    <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center" style="height:220px; padding-top: 60px;">
+    <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center" style="height:220px; padding-top: 160px;">
       
     
       <img src="./assets/img/microsoft-logo-vector.svg"
