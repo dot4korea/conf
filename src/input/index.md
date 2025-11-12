@@ -208,7 +208,7 @@
           <b>개발 속도와 생산성</b>을 극대화하고 싶은 .NET 개발자를 위한 세션입니다.
         </p>
            <a href="https://linkedin.com/in/rkttu" target="_blank" class="btn btn-outline-primary btn-sm rounded-pill mt-2">
-          링크드인
+          링크드인 방문하기
         </a>
       </div>
     </div>
@@ -288,7 +288,7 @@
             LLM 교체와 확장성을 극대화한 실전 활용법과 커뮤니티 기여 배경까지 함께 다룹니다.
     </p>
     <a href="https://www.linkedin.com/in/gyeongsun-park" target="_blank" class="btn btn-outline-primary btn-sm rounded-pill mt-2">
-          링크드인
+          링크드인 방문하기
         </a>
 </div>
 </div>
