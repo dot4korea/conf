@@ -317,7 +317,9 @@
     </div>
   </div>
 
-    <!-- 발표자: Justin Yoo (추가) -->
+   
+   <!-- 발표자: Justin Yoo (추가) -->
+
   <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
     <div class="card shadow-sm border-0 h-100 text-center">
       <img src="./assets/img/justinyoo.png" class="card-img-top rounded-top speaker-img" alt="Justin Yoo 발표자">
