@@ -207,6 +207,9 @@
           <b>AI MCP 서버</b> 및 <b>AOT 컴파일</b> 등 최신 기술을 활용한 빠르고 확장 가능한 앱 개발의 실전 데모와 팁을 제공<br> 
           <b>개발 속도와 생산성</b>을 극대화하고 싶은 .NET 개발자를 위한 세션입니다.
         </p>
+           <a href="https://linkedin.com/in/rkttu" target="_blank" class="btn btn-outline-primary btn-sm rounded-pill mt-2">
+          링크드인
+        </a>
       </div>
     </div>
   </div>
@@ -284,6 +287,9 @@
             <b>OpenChat Playground</b> 오픈소스 프로젝트를 통해 다양한 모델을 손쉽게 교체하고 실험할 수 있는 방법을 공유합니다.<br>
             LLM 교체와 확장성을 극대화한 실전 활용법과 커뮤니티 기여 배경까지 함께 다룹니다.
     </p>
+    <a href="https://www.linkedin.com/in/gyeongsun-park" target="_blank" class="btn btn-outline-primary btn-sm rounded-pill mt-2">
+          링크드인
+        </a>
 </div>
 </div>
 </div>
