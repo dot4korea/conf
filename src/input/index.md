@@ -316,6 +316,30 @@
       </div>
     </div>
   </div>
+
+    <!-- 발표자: Justin Yoo (추가) -->
+  <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
+    <div class="card shadow-sm border-0 h-100 text-center">
+      <img src="./assets/img/justinyoo.png" class="card-img-top rounded-top speaker-img" alt="Justin Yoo 발표자">
+      <div class="card-body">
+        <h5 class="card-title fw-bold">Justin Yoo 님</h5>
+        <p class="text-muted mb-2">
+          .NET 10이 여는 AI, 에이전트 그리고 클라우드 네이티브 세상
+        </p>
+        <p class="card-text small">
+          새롭게 출시한 <b>.NET 10</b>, 그리고 <b>Visual Studio 2026!</b><br>
+          .NET은 이제 AI를 활용한 지능형 앱 개발의 핵심 축으로 자리잡았습니다.<br>
+          더불어 이런 지능형 앱을 클라우드 네이티브 기반으로 제대로 배포할 수 있는
+          <b>Aspire</b>, 또 뭐가 있을까요?<br>
+          우리 함께 알아 <b>BoA요!</b>
+        </p>
+        <a href="https://linkedin.com/in/justinyoo" target="_blank" class="btn btn-outline-primary btn-sm rounded-pill mt-2">
+          링크드인 방문하기
+        </a>
+      </div>
+    </div>
+  </div>
+
 <!-- 추가 발표자 예시 -->
 <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
   <div class="card shadow-sm border-0 h-100 text-center">
