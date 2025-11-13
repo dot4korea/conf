@@ -17,6 +17,8 @@
 
 - **장소** : [한국마이크로소프트](https://maps.google.com/?cid=8257584141974728477&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNl) 13층 | 서울특별시 종로구 종로1길 50 더케이트윈타워
 - **일정 :** 11월 27일(목) 10시 ~ 17시(점심식사 제공)
+- 주차 지원 안되니 대중 교통 이용 부탁드립니다. 
+
 <div class="mt-3 mb-4">
   <a href="https://www.onoffmix.com/event/331906" target="_blank" 
      class="btn btn-primary btn-lg px-4 py-2 fw-bold">
@@ -322,9 +324,9 @@
 
   <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
     <div class="card shadow-sm border-0 h-100 text-center">
-      <img src="./assets/img/justinyoo.png" class="card-img-top rounded-top speaker-img" alt="Justin Yoo 발표자">
+      <img src="./assets/img/justinyoo.png" class="card-img-top rounded-top speaker-img" alt="유저스틴 발표자">
       <div class="card-body">
-        <h5 class="card-title fw-bold">Justin Yoo 님</h5>
+        <h5 class="card-title fw-bold">유저스틴 님</h5>
         <p class="text-muted mb-2">
           .NET 10이 여는 AI, 에이전트 그리고 클라우드 네이티브 세상
         </p>
