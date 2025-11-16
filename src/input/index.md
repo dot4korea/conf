@@ -22,7 +22,7 @@
 <div class="mt-3 mb-4">
   <a href="https://www.onoffmix.com/event/331906" target="_blank" 
      class="btn btn-primary btn-lg px-4 py-2 fw-bold">
-    ✅ 신청하기
+    ✅ 접수하기
   </a>
 </div>
 <div style="margin-top: 20px; margin-bottom: 20px;">
