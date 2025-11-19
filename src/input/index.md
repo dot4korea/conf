@@ -344,6 +344,26 @@
     </div>
   </div>
 
+  <!-- 발표자: 김진석 -->
+<div class="col-sm-12 col-md-6 col-lg-4 mb-4">
+  <div class="card shadow-sm border-0 h-100 text-center">
+    <img src="./assets/img/iamjinseok.jpg" class="card-img-top rounded-top speaker-img" alt="김진석 발표자">
+    <div class="card-body">
+      <h5 class="card-title fw-bold">김진석 님</h5>
+      <p class="text-muted mb-2">C# 14 등장... 내가 쓰는 문법은 어디쯤에 있나..?</p>
+      <p class="card-text small">
+        .NET 10과 함께 C# 14가 새롭게 릴리스되었습니다. 평소 자주 쓰는 C# 문법이
+        어떤 변화와 개선을 겪었는지, 그리고 여러분이 읽고 있는 C# 책(예: 3.0)은
+        지금의 언어와 얼마나 차이나는지를 재미있게 살펴봅니다.
+      </p>
+      <!-- 이미지/프로필 외부 링크가 있으면 href에 넣어주세요 -->
+      <a href="https://blog.naver.com/khsystems2018" class="btn btn-outline-primary btn-sm rounded-pill mt-2" aria-disabled="true">
+      블로그 방문하기
+      </a>
+    </div>
+  </div>
+</div>
+
 <!-- 추가 발표자 예시 -->
 <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
   <div class="card shadow-sm border-0 h-100 text-center">
