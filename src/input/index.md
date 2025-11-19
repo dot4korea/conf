@@ -347,7 +347,7 @@
   <!-- 발표자: 김진석 -->
 <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
   <div class="card shadow-sm border-0 h-100 text-center">
-    <img src="./assets/img/iamjinseok.jpg" class="card-img-top rounded-top speaker-img" alt="김진석 발표자">
+    <img src="./assets/img/iamjinseok.png" class="card-img-top rounded-top speaker-img" alt="김진석 발표자">
     <div class="card-body">
       <h5 class="card-title fw-bold">김진석 님</h5>
       <p class="text-muted mb-2">C# 14 등장... 내가 쓰는 문법은 어디쯤에 있나..?</p>
