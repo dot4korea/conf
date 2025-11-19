@@ -364,7 +364,7 @@
   </div>
 </div>
 
-<!-- 추가 발표자 예시 -->
+<!-- 
 <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
   <div class="card shadow-sm border-0 h-100 text-center">
     <div class="card-body d-flex flex-column align-items-center justify-content-center">
@@ -376,7 +376,7 @@
     </div>
   </div>
 </div>
-
+추가 발표자 예시 -->
 
 </div>
 
