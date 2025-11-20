@@ -399,7 +399,6 @@
         </tr>
     </thead>
     <tbody>
-
         <tr>
             <td class="text-center"><b>10:00</b></td>
             <td class="text-center">전체</td>
@@ -410,7 +409,6 @@
                 Aspire 기반 클라우드 네이티브 아키텍처까지 함께 다루며 AI 개발의 새로운 패러다임을 제시합니다.
             </td>
         </tr>
-
         <tr>
             <td class="text-center"><b>11:00</b></td>
             <td class="text-center">전체</td>
@@ -421,13 +419,11 @@
                 과거 문법과 비교해 변화된 부분을 실전 사례를 통해 쉽고 재미있게 설명합니다.
             </td>
         </tr>
-
         <tr class="table-secondary">
             <td class="text-center"><b>12:00</b></td>
             <td class="text-center" colspan="2"><b>점심시간</b></td>
             <td>휴식 및 네트워킹 시간입니다.</td>
         </tr>
-
         <tr>
             <td class="text-center"><b>13:00</b></td>
             <td class="text-center fw-bold">트랙 A</td>
@@ -448,7 +444,6 @@
                 실제 데모를 통한 데스크톱 UI 개발의 현재와 미래를 보여줍니다.
             </td>
         </tr>
-
         <tr>
             <td class="text-center"><b>14:00</b></td>
             <td class="text-center fw-bold">트랙 A</td>
@@ -469,7 +464,6 @@
                 OpenChat Playground 오픈소스 기반 실전 활용 사례 공유.
             </td>
         </tr>
-
         <tr>
             <td class="text-center"><b>15:00</b></td>
             <td class="text-center fw-bold">트랙 A</td>
@@ -489,7 +483,6 @@
                 두 발표자가 함께 진행하는 확장형 세션으로 다양한 실전 개발 경험을 공유합니다.
             </td>
         </tr>
-
         <tr>
             <td class="text-center"><b>16:00</b></td>
             <td class="text-center fw-bold">트랙 A</td>
@@ -510,7 +503,6 @@
                 단일 .cs 파일로 만들어지는 초경량 앱 개발 경험 공유.
             </td>
         </tr>
-
     </tbody>
 </table>
 
