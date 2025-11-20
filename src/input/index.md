@@ -428,13 +428,19 @@
             <td class="text-center"><b>12:00</b></td>
             <td><b>점심시간</b> — 휴식 및 네트워킹</td>
         </tr>
-        <tr class="table-light">
-            <td></td>
-            <td class="text-center fw-bold">
-                 13:00 이후 세션 — Track A | Track B 동시 진행 
+          <tr>
+            <td class="text-center"></td>
+            <td class="p-0">
+                <div class="d-flex">
+                    <div class="track-cell track-a">
+                        <b>[Track A]</b><br>   
+                    </div>
+                    <div class="track-cell track-b">
+                        <b>[Track B] </b><br>
+                    </div>
+                </div>
             </td>
         </tr>
-        <!-- 13:00 -->
         <tr>
             <td class="text-center"><b>13:00</b></td>
             <td class="p-0">
