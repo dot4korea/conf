@@ -397,7 +397,6 @@
             <th>발표 주제 / 내용</th>
         </tr>
     </thead>
-
     <tbody>
         <tr>
             <td class="text-center"><b>10:00</b></td>
@@ -409,7 +408,6 @@
                 Aspire 기반 클라우드 네이티브 아키텍처까지 함께 다룹니다.
             </td>
         </tr>
-
         <tr>
             <td class="text-center"><b>11:00</b></td>
             <td class="text-center">전체</td>
