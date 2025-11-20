@@ -109,7 +109,7 @@
  </div>
 
  <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
-   <a href=https://jpub.tistory.com/" target="_blank" class="text-decoration-none">
+   <a href="https://jpub.tistory.com/" target="_blank" class="text-decoration-none">
      <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-center" style="height:220px;">
        <img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F361051%2Fattach%2F72f3a52efc21486d9ed49d3aa444f19e" 
             alt="제이펍" 
