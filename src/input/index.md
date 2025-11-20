@@ -470,11 +470,11 @@
                 <div class="d-flex">
                     <div class="track-cell track-a">
                         <b>BlazorTreasure</b><br>
-                        .NET 10 시대의 Blazor — 변화 & 실전 팁
+                        .NET 10 시대의 Blazor — 개발자가 알아야 할 변화와 실전 팁
                     </div>
                     <div class="track-cell track-b">
                         <b>박송화</b><br>
-                        WPF의 현재와 미래 — 데스크톱 개발 방향
+                        WPF의 현재와 미래 — 다시 바라본 데스크톱 개발
                     </div>
                 </div>
             </td>
@@ -485,11 +485,11 @@
                 <div class="d-flex">
                     <div class="track-cell track-a">
                         <b>박효철</b><br>
-                        도메인주도개발(DDD) 실전에서의 삽질 사례
+                        도메인주도개발을 수행해오면서 들었던 삽질들에 대해서
                     </div>
                     <div class="track-cell track-b">
                         <b>박경선</b><br>
-                        Microsoft.Extensions.AI로 LLM 통합하기
+                        아직도 직접 구현중? LLM 직접 구현할 시간에 난 깐x치킨 간다
                     </div>
                 </div>
             </td>
@@ -500,7 +500,7 @@
                 <div class="d-flex">
                     <div class="track-cell track-a">
                         <b>김준형</b><br>
-                        WPF 개발자의 Blazor 적응기 & 테트리스 프로젝트
+                        WPF 사용자의 Web Front-end 적응기 Blazor와 Inline SVG, SMIL의 케미스트리
                     </div>
                     <div class="track-cell track-b">
                         <b>고요한 · 김진석</b><br>
@@ -515,11 +515,11 @@
                 <div class="d-flex">
                     <div class="track-cell track-a">
                         <b>이종인</b><br>
-                        Microsoft Agent Framework로 만드는 AI 앱
+                        .NET으로 손쉽게 만드는 AI 앱 - Microsoft Agent Framework 알아보기
                     </div>
                     <div class="track-cell track-b">
                         <b>남정현</b><br>
-                        FBA 템플릿·AOT·AI MCP로 만드는 초경량 .NET 앱
+                       From Zero to Hero - cs 파일 하나로 시작하는 AI 친화적인 초고속 닷넷 앱 개발
                     </div>
                 </div>
             </td>
