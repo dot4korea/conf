@@ -386,7 +386,6 @@
 
 <!-- 🕒 전체 발표자 시간표 -->
 ## 📅 시간표
-
 <h2 class="text-center mt-5 mb-4">전체 발표 시간표</h2>
 
 <table class="table table-bordered align-middle">
@@ -398,6 +397,7 @@
             <th>발표 주제 / 내용</th>
         </tr>
     </thead>
+
     <tbody>
         <tr>
             <td class="text-center"><b>10:00</b></td>
@@ -405,18 +405,18 @@
             <td class="fw-bold text-center">유저스틴 님</td>
             <td>
                 <b>.NET 10이 여는 AI, 에이전트 그리고 클라우드 네이티브 세상</b><br>
-                새롭게 출시된 <b>.NET 10</b>, <b>Visual Studio 2026</b>, 그리고 AI 중심 개발 환경을 소개합니다.<br>
-                Aspire 기반 클라우드 네이티브 아키텍처까지 함께 다루며 AI 개발의 새로운 패러다임을 제시합니다.
+                .NET 10, Visual Studio 2026, AI 중심 개발 환경 소개.<br>
+                Aspire 기반 클라우드 네이티브 아키텍처까지 함께 다룹니다.
             </td>
         </tr>
+
         <tr>
             <td class="text-center"><b>11:00</b></td>
             <td class="text-center">전체</td>
             <td class="fw-bold text-center">김진석 님</td>
             <td>
                 <b>C# 14 등장... 내가 쓰는 문법은 어디쯤에 있나?</b><br>
-                .NET 10과 함께 릴리스된 최신 C# 14 문법 소개.<br>
-                과거 문법과 비교해 변화된 부분을 실전 사례를 통해 쉽고 재미있게 설명합니다.
+                최신 C# 14 기능과 기존 문법 비교 및 실전 적용 사례 설명.
             </td>
         </tr>
         <tr class="table-secondary">
@@ -424,87 +424,81 @@
             <td class="text-center" colspan="2"><b>점심시간</b></td>
             <td>휴식 및 네트워킹 시간입니다.</td>
         </tr>
-        <tr>
+        <tr class="table-primary">
             <td class="text-center"><b>13:00</b></td>
             <td class="text-center fw-bold">트랙 A</td>
             <td class="fw-bold text-center">BlazorTreasure 님</td>
             <td>
                 <b>.NET 10 시대의 Blazor – 개발자가 알아야 할 변화와 실전 팁</b><br>
-                새로운 렌더링 모델과 성능 개선 사항을 소개하고,<br>
-                실제 업무에 바로 적용 가능한 실전 Blazor 활용 팁을 공유합니다.
+                새로운 렌더링 모델, 성능 개선 사항, 실전 활용 팁 공유.
             </td>
         </tr>
-        <tr>
-            <td></td>
+        <tr class="table-warning">
+            <td class="text-center"></td>
             <td class="text-center fw-bold">트랙 B</td>
             <td class="fw-bold text-center">박송화 님</td>
             <td>
                 <b>WPF의 현재와 미래: .NET 10 시대의 데스크톱 개발</b><br>
-                WPF의 기술적 정체성과 강점, .NET 10 환경에서의 주요 업데이트 소개.<br>
-                실제 데모를 통한 데스크톱 UI 개발의 현재와 미래를 보여줍니다.
+                WPF의 정체성과 강점, 데모 중심 데스크톱 UI 개발 트렌드 소개.
             </td>
         </tr>
-        <tr>
+        <tr class="table-primary">
             <td class="text-center"><b>14:00</b></td>
             <td class="text-center fw-bold">트랙 A</td>
             <td class="fw-bold text-center">박효철 님</td>
             <td>
                 <b>도메인주도개발을 수행하며 겪은 삽질들</b><br>
-                실제 프로젝트에서 DDD와 마이크로서비스를 적용하며 겪은 문제와 해결 경험 공유.<br>
-                책에서 보기 어려운 실전 사례 중심의 노하우를 전달합니다.
+                실전 프로젝트에서의 DDD·마이크로서비스 적용 문제 & 해결 경험 공유.
             </td>
         </tr>
-        <tr>
-            <td></td>
+        <tr class="table-warning">
+            <td class="text-center"></td>
             <td class="text-center fw-bold">트랙 B</td>
             <td class="fw-bold text-center">박경선 님</td>
             <td>
                 <b>아직도 직접 구현중? LLM 직접 구현할 시간에 난 깐X치킨 간다</b><br>
-                <b>Microsoft.Extensions.AI</b>로 다양한 LLM 제공자를 통합하는 개발 방법 소개.<br>
-                OpenChat Playground 오픈소스 기반 실전 활용 사례 공유.
+                Microsoft.Extensions.AI로 LLM 제공자 통합하는 실전 개발 사례 공유.
             </td>
         </tr>
-        <tr>
+        <tr class="table-primary">
             <td class="text-center"><b>15:00</b></td>
             <td class="text-center fw-bold">트랙 A</td>
             <td class="fw-bold text-center">김준형 님</td>
             <td>
                 <b>WPF 사용자의 Web Front-end 적응기</b><br>
-                Inline SVG, SMIL을 활용해 WPF 스타일 UI를 Blazor로 옮기는 과정 공유.<br>
-                Blazor 기반 <b>테트리스 게임 토이 프로젝트</b> 제작 경험 포함.
+                Inline SVG·SMIL 활용 Blazor UI 개발 경험 및 테트리스 프로젝트 사례.
             </td>
         </tr>
-        <tr>
-            <td></td>
+        <tr class="table-warning">
+            <td class="text-center"></td>
             <td class="text-center fw-bold">트랙 B</td>
             <td class="fw-bold text-center">고요한 님 · 김진석 님</td>
             <td>
                 <b>트랙 B 발표자 공동 세션</b><br>
-                두 발표자가 함께 진행하는 확장형 세션으로 다양한 실전 개발 경험을 공유합니다.
+                두 발표자가 함께 준비한 실전 확장형 세션.
             </td>
         </tr>
-        <tr>
+        <tr class="table-primary">
             <td class="text-center"><b>16:00</b></td>
             <td class="text-center fw-bold">트랙 A</td>
             <td class="fw-bold text-center">이종인 님</td>
             <td>
                 <b>.NET으로 손쉽게 만드는 AI 앱 – Microsoft Agent Framework</b><br>
-                .NET 로직에 Agent Framework를 결합해 강력한 AI 기능을 추가하는 방법 설명.<br>
-                실전 앱 사례 중심으로 쉽게 이해할 수 있도록 구성되었습니다.
+                .NET 로직 + Agent Framework로 AI 기능을 넣는 실전 개발 방법.
             </td>
         </tr>
-        <tr>
-            <td></td>
+        <tr class="table-warning">
+            <td class="text-center"></td>
             <td class="text-center fw-bold">트랙 B</td>
             <td class="fw-bold text-center">남정현 님</td>
             <td>
                 <b>From Zero to Hero – cs 파일 하나로 시작하는 초고속 닷넷 앱 개발</b><br>
-                .NET 10 지향 <b>FBA 템플릿</b>, <b>AOT 컴파일</b>, <b>AI MCP 서버</b> 기반 빠른 개발 방법.<br>
-                단일 .cs 파일로 만들어지는 초경량 앱 개발 경험 공유.
+                FBA 템플릿, AOT, AI MCP 서버 기반 초경량 .NET 앱 개발 경험.
             </td>
         </tr>
     </tbody>
 </table>
+
 
 
 ## 🙌 운영진
