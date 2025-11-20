@@ -108,6 +108,30 @@
    </a>
  </div>
 
+ <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
+   <a href=https://jpub.tistory.com/" target="_blank" class="text-decoration-none">
+     <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-center" style="height:220px;">
+       <img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F361051%2Fattach%2F72f3a52efc21486d9ed49d3aa444f19e" 
+            alt="제이펍" 
+            class="img-fluid mb-3" 
+            style="max-width: 100%; max-height: 120px; object-fit: contain;">
+       <h5 class="fw-bold text-dark mt-auto">제이펍</h5>
+     </div>
+   </a>
+ </div>
+
+ <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
+   <a href="https://www.easyspub.co.kr/" target="_blank" class="text-decoration-none">
+     <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-center" style="height:220px;">
+       <img src="https://ssing9.github.io/DoitWebSite_ex/images/mainLogo.png" 
+            alt="이지스퍼블리싱  로고" 
+            class="img-fluid mb-3" 
+            style="max-width: 100%; max-height: 120px; object-fit: contain;">
+       <h5 class="fw-bold text-dark mt-auto">이지스퍼블리싱</h5>
+     </div>
+   </a>
+ </div>
+
 <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5 text-center">
    <a href="https://www.diypia.com/" target="_blank" class="text-decoration-none">
      <div class="p-4 bg-white rounded-4 shadow-sm d-flex flex-column align-items-center justify-content-center" style="height:220px;">
@@ -413,14 +437,14 @@
         <tr>
             <td class="text-center"><b>10:00</b></td>
             <td>
-                <b>[전체] 유저스틴 — .NET 10이 여는 AI, 에이전트 그리고 클라우드 네이티브 세상</b><br>
+                <b>유저스틴 — .NET 10이 여는 AI, 에이전트 그리고 클라우드 네이티브 세상</b><br>
                 .NET 10, Visual Studio 2026, Aspire 기반 클라우드 네이티브 소개.
             </td>
         </tr>
         <tr>
             <td class="text-center"><b>11:00</b></td>
             <td>
-                <b>[전체] 김진석 — C# 14 등장... 내가 쓰는 문법은 어디쯤에 있나?</b><br>
+                <b>김진석 — C# 14 등장... 내가 쓰는 문법은 어디쯤에 있나?</b><br>
                 최신 C# 14 기능 비교 및 실전 적용 사례 설명.
             </td>
         </tr>
