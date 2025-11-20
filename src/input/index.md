@@ -291,6 +291,7 @@ Title: .NET Conf 2025 @Seoul
 <br/>
 
 ---
+<!--
 
 ## 📢 발표제안 (Call for Speakers)
 
@@ -311,7 +312,7 @@ Title: .NET Conf 2025 @Seoul
 </div>
 
 <br/>
-
+-->
 ---
 ## 🎤 발표자
 <br/>
