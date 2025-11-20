@@ -428,29 +428,28 @@
             <td class="text-center"><b>12:00</b></td>
             <td><b>점심시간</b> — 휴식 및 네트워킹</td>
         </tr>
-          <tr>
+         <tr class="text-center">
             <td class="text-center"></td>
-            <td class="p-0">
-                <div class="d-flex">
+            <td class="p-0 text-center">
+                <div class="d-flex justify-content-center">
                     <div class="track-cell track-a">
-                        <b>[Track A]</b><br>   
+                        <b>[Track A]</b><br>
                     </div>
                     <div class="track-cell track-b">
-                        <b>[Track B] </b><br>
+                        <b>[Track B]</b><br>
                     </div>
                 </div>
             </td>
         </tr>
-        <tr>
             <td class="text-center"><b>13:00</b></td>
             <td class="p-0">
                 <div class="d-flex">
                     <div class="track-cell track-a">
-                        <b>[Track A] BlazorTreasure</b><br>
+                        <b>BlazorTreasure</b><br>
                         .NET 10 시대의 Blazor — 변화 & 실전 팁
                     </div>
                     <div class="track-cell track-b">
-                        <b>[Track B] 박송화</b><br>
+                        <b>박송화</b><br>
                         WPF의 현재와 미래 — 데스크톱 개발 방향
                     </div>
                 </div>
@@ -461,11 +460,11 @@
             <td class="p-0">
                 <div class="d-flex">
                     <div class="track-cell track-a">
-                        <b>[Track A] 박효철</b><br>
+                        <b>박효철</b><br>
                         도메인주도개발(DDD) 실전에서의 삽질 사례
                     </div>
                     <div class="track-cell track-b">
-                        <b>[Track B] 박경선</b><br>
+                        <b>박경선</b><br>
                         Microsoft.Extensions.AI로 LLM 통합하기
                     </div>
                 </div>
@@ -476,7 +475,7 @@
             <td class="p-0">
                 <div class="d-flex">
                     <div class="track-cell track-a">
-                        <b>[Track A] 김준형</b><br>
+                        <b>김준형</b><br>
                         WPF 개발자의 Blazor 적응기 & 테트리스 프로젝트
                     </div>
                     <div class="track-cell track-b">
@@ -491,11 +490,11 @@
             <td class="p-0">
                 <div class="d-flex">
                     <div class="track-cell track-a">
-                        <b>[Track A] 이종인</b><br>
+                        <b>이종인</b><br>
                         Microsoft Agent Framework로 만드는 AI 앱
                     </div>
                     <div class="track-cell track-b">
-                        <b>[Track B] 남정현</b><br>
+                        <b>남정현</b><br>
                         FBA 템플릿·AOT·AI MCP로 만드는 초경량 .NET 앱
                     </div>
                 </div>
