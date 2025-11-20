@@ -489,7 +489,7 @@
                     </div>
                     <div class="track-cell track-b">
                         <b>박경선</b><br>
-                        아직도 직접 구현중? LLM 직접 구현할 시간에 난 깐x치킨 간다
+                        아직도 직접 구현중? <br> LLM 직접 구현할 시간에 난 깐x치킨 간다
                     </div>
                 </div>
             </td>
@@ -500,7 +500,7 @@
                 <div class="d-flex">
                     <div class="track-cell track-a">
                         <b>김준형</b><br>
-                        WPF 사용자의 Web Front-end 적응기 Blazor와 Inline SVG, SMIL의 케미스트리
+                        WPF 사용자의 Web Front-end 적응기 <br> Blazor와 Inline SVG, SMIL의 케미스트리
                     </div>
                     <div class="track-cell track-b">
                         <b>고요한 · 김진석</b><br>
@@ -519,7 +519,7 @@
                     </div>
                     <div class="track-cell track-b">
                         <b>남정현</b><br>
-                       From Zero to Hero - cs 파일 하나로 시작하는 AI 친화적인 초고속 닷넷 앱 개발
+                       From Zero to Hero <br> cs 파일 하나로 시작하는 AI 친화적인 초고속 닷넷 앱 개발
                     </div>
                 </div>
             </td>
