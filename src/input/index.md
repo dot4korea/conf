@@ -400,7 +400,7 @@
     </thead>
     <tbody>
 
-        <!-- 10시 - 전체 발표 -->
+  <!-- 10시 - 전체 발표 -->
         <tr>
             <td class="text-center"><b>10:00</b></td>
             <td class="text-center">전체</td>
@@ -412,7 +412,7 @@
             </td>
         </tr>
 
-        <!-- 11시 - 전체 발표 -->
+  <!-- 11시 - 전체 발표 -->
         <tr>
             <td class="text-center"><b>11:00</b></td>
             <td class="text-center">전체</td>
@@ -424,14 +424,14 @@
             </td>
         </tr>
 
-        <!-- 12시 - 점심 -->
+   <!-- 12시 - 점심 -->
         <tr class="table-secondary">
             <td class="text-center"><b>12:00</b></td>
             <td class="text-center" colspan="2"><b>점심시간</b></td>
             <td>휴식 및 네트워킹 시간입니다.</td>
         </tr>
 
-        <!-- 13시 - 트랙 A / B -->
+  <!-- 13시 - 트랙 A / B -->
         <tr>
             <td class="text-center"><b>13:00</b></td>
             <td class="text-center fw-bold">트랙 A</td>
@@ -453,7 +453,7 @@
             </td>
         </tr>
 
-        <!-- 14시 -->
+  <!-- 14시 -->
         <tr>
             <td class="text-center"><b>14:00</b></td>
             <td class="text-center fw-bold">트랙 A</td>
@@ -475,7 +475,7 @@
             </td>
         </tr>
 
-        <!-- 15시 -->
+  <!-- 15시 -->
         <tr>
             <td class="text-center"><b>15:00</b></td>
             <td class="text-center fw-bold">트랙 A</td>
@@ -496,7 +496,7 @@
             </td>
         </tr>
 
-        <!-- 16시 -->
+  <!-- 16시 -->
         <tr>
             <td class="text-center"><b>16:00</b></td>
             <td class="text-center fw-bold">트랙 A</td>
