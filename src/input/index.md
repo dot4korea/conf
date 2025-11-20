@@ -388,114 +388,110 @@
 ## 📅 시간표
 <h2 class="text-center mt-5 mb-4">전체 발표 시간표</h2>
 
+<style>
+    .track-cell {
+        width: 50%;
+        vertical-align: top;
+        padding: 12px;
+        border-left: 1px solid #dee2e6;
+    }
+    .track-a {
+        background: #e7f1ff; /* 연한 파란색 */
+    }
+    .track-b {
+        background: #fff7d6; /* 연한 노란색 */
+    }
+</style>
+
 <table class="table table-bordered align-middle">
     <thead class="table-light text-center">
         <tr>
             <th style="width: 120px;">시간</th>
-            <th style="width: 150px;">트랙</th>
-            <th style="width: 180px;">발표자</th>
-            <th>발표 주제 / 내용</th>
+            <th>발표 내용</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td class="text-center"><b>10:00</b></td>
-            <td class="text-center">전체</td>
-            <td class="fw-bold text-center">유저스틴 님</td>
             <td>
-                <b>.NET 10이 여는 AI, 에이전트 그리고 클라우드 네이티브 세상</b><br>
-                .NET 10, Visual Studio 2026, AI 중심 개발 환경 소개.<br>
-                Aspire 기반 클라우드 네이티브 아키텍처까지 함께 다룹니다.
+                <b>[전체] 유저스틴 — .NET 10이 여는 AI, 에이전트 그리고 클라우드 네이티브 세상</b><br>
+                .NET 10, Visual Studio 2026, Aspire 기반 클라우드 네이티브 소개.
             </td>
         </tr>
         <tr>
             <td class="text-center"><b>11:00</b></td>
-            <td class="text-center">전체</td>
-            <td class="fw-bold text-center">김진석 님</td>
             <td>
-                <b>C# 14 등장... 내가 쓰는 문법은 어디쯤에 있나?</b><br>
-                최신 C# 14 기능과 기존 문법 비교 및 실전 적용 사례 설명.
+                <b>[전체] 김진석 — C# 14 등장... 내가 쓰는 문법은 어디쯤에 있나?</b><br>
+                최신 C# 14 기능 비교 및 실전 적용 사례 설명.
             </td>
         </tr>
         <tr class="table-secondary">
             <td class="text-center"><b>12:00</b></td>
-            <td class="text-center" colspan="2"><b>점심시간</b></td>
-            <td>휴식 및 네트워킹 시간입니다.</td>
+            <td><b>점심시간</b> — 휴식 및 네트워킹</td>
         </tr>
-        <tr class="table-primary">
+        <tr>
             <td class="text-center"><b>13:00</b></td>
-            <td class="text-center fw-bold">트랙 A</td>
-            <td class="fw-bold text-center">BlazorTreasure 님</td>
-            <td>
-                <b>.NET 10 시대의 Blazor – 개발자가 알아야 할 변화와 실전 팁</b><br>
-                새로운 렌더링 모델, 성능 개선 사항, 실전 활용 팁 공유.
+            <td class="p-0">
+                <div class="d-flex">
+                    <div class="track-cell track-a">
+                        <b>[Track A] BlazorTreasure</b><br>
+                        .NET 10 시대의 Blazor — 변화 & 실전 팁
+                    </div>
+                    <div class="track-cell track-b">
+                        <b>[Track B] 박송화</b><br>
+                        WPF의 현재와 미래 — 데스크톱 개발 방향
+                    </div>
+                </div>
             </td>
         </tr>
-        <tr class="table-warning">
-            <td class="text-center"></td>
-            <td class="text-center fw-bold">트랙 B</td>
-            <td class="fw-bold text-center">박송화 님</td>
-            <td>
-                <b>WPF의 현재와 미래: .NET 10 시대의 데스크톱 개발</b><br>
-                WPF의 정체성과 강점, 데모 중심 데스크톱 UI 개발 트렌드 소개.
-            </td>
-        </tr>
-        <tr class="table-primary">
+        <tr>
             <td class="text-center"><b>14:00</b></td>
-            <td class="text-center fw-bold">트랙 A</td>
-            <td class="fw-bold text-center">박효철 님</td>
-            <td>
-                <b>도메인주도개발을 수행하며 겪은 삽질들</b><br>
-                실전 프로젝트에서의 DDD·마이크로서비스 적용 문제 & 해결 경험 공유.
+            <td class="p-0">
+                <div class="d-flex">
+                    <div class="track-cell track-a">
+                        <b>[Track A] 박효철</b><br>
+                        도메인주도개발(DDD) 실전에서의 삽질 사례
+                    </div>
+                    <div class="track-cell track-b">
+                        <b>[Track B] 박경선</b><br>
+                        Microsoft.Extensions.AI로 LLM 통합하기
+                    </div>
+                </div>
             </td>
         </tr>
-        <tr class="table-warning">
-            <td class="text-center"></td>
-            <td class="text-center fw-bold">트랙 B</td>
-            <td class="fw-bold text-center">박경선 님</td>
-            <td>
-                <b>아직도 직접 구현중? LLM 직접 구현할 시간에 난 깐X치킨 간다</b><br>
-                Microsoft.Extensions.AI로 LLM 제공자 통합하는 실전 개발 사례 공유.
-            </td>
-        </tr>
-        <tr class="table-primary">
+        <tr>
             <td class="text-center"><b>15:00</b></td>
-            <td class="text-center fw-bold">트랙 A</td>
-            <td class="fw-bold text-center">김준형 님</td>
-            <td>
-                <b>WPF 사용자의 Web Front-end 적응기</b><br>
-                Inline SVG·SMIL 활용 Blazor UI 개발 경험 및 테트리스 프로젝트 사례.
+            <td class="p-0">
+                <div class="d-flex">
+                    <div class="track-cell track-a">
+                        <b>[Track A] 김준형</b><br>
+                        WPF 개발자의 Blazor 적응기 & 테트리스 프로젝트
+                    </div>
+                    <div class="track-cell track-b">
+                        <b>[Track B] 고요한 · 김진석</b><br>
+                        트랙 B 공동 세션 — 실전 확장형 발표
+                    </div>
+                </div>
             </td>
         </tr>
-        <tr class="table-warning">
-            <td class="text-center"></td>
-            <td class="text-center fw-bold">트랙 B</td>
-            <td class="fw-bold text-center">고요한 님 · 김진석 님</td>
-            <td>
-                <b>트랙 B 발표자 공동 세션</b><br>
-                두 발표자가 함께 준비한 실전 확장형 세션.
-            </td>
-        </tr>
-        <tr class="table-primary">
+        <tr>
             <td class="text-center"><b>16:00</b></td>
-            <td class="text-center fw-bold">트랙 A</td>
-            <td class="fw-bold text-center">이종인 님</td>
-            <td>
-                <b>.NET으로 손쉽게 만드는 AI 앱 – Microsoft Agent Framework</b><br>
-                .NET 로직 + Agent Framework로 AI 기능을 넣는 실전 개발 방법.
-            </td>
-        </tr>
-        <tr class="table-warning">
-            <td class="text-center"></td>
-            <td class="text-center fw-bold">트랙 B</td>
-            <td class="fw-bold text-center">남정현 님</td>
-            <td>
-                <b>From Zero to Hero – cs 파일 하나로 시작하는 초고속 닷넷 앱 개발</b><br>
-                FBA 템플릿, AOT, AI MCP 서버 기반 초경량 .NET 앱 개발 경험.
+            <td class="p-0">
+                <div class="d-flex">
+                    <div class="track-cell track-a">
+                        <b>[Track A] 이종인</b><br>
+                        Microsoft Agent Framework로 만드는 AI 앱
+                    </div>
+                    <div class="track-cell track-b">
+                        <b>[Track B] 남정현</b><br>
+                        FBA 템플릿·AOT·AI MCP로 만드는 초경량 .NET 앱
+                    </div>
+                </div>
             </td>
         </tr>
     </tbody>
 </table>
+
 
 
 
