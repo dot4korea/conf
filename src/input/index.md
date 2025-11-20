@@ -479,7 +479,7 @@
                         WPF 개발자의 Blazor 적응기 & 테트리스 프로젝트
                     </div>
                     <div class="track-cell track-b">
-                        <b>[Track B] 고요한 · 김진석</b><br>
+                        <b>고요한 · 김진석</b><br>
                         트랙 B 공동 세션 — 
                     </div>
                 </div>
