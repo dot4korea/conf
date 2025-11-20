@@ -166,7 +166,9 @@
 </p>
 
 <br/>
+
 ## 📅 시간표
+
 <br/>
 
 <style>
@@ -283,7 +285,11 @@
         </tr>
     </tbody>
 </table>
+
+<br/>
+
 ## 📢 발표제안 (Call for Speakers)
+
 <br/>
 
 **.NET Conf 2025 @Seoul**에서는 다양한 분야의 발표를 기다리고 있습니다.
