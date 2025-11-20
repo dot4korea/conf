@@ -430,7 +430,7 @@ Title: .NET Conf 2025 @Seoul
   <!-- 발표자: 박경선 -->
 <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
     <div class="card shadow-sm border-0 h-100 text-center">
-        <img src="./assets/img/Parkkyungsun.png" class="card-img-top rounded-top speaker-img" alt="박경선 발표자">
+        <img src="https://gngsn-public-event.s3.ap-northeast-2.amazonaws.com/%E1%84%87%E1%85%A1%E1%86%A8%E1%84%80%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A5%E1%86%AB2.Jpg" class="card-img-top rounded-top speaker-img" alt="박경선 발표자">
         <div class="card-body">
             <h5 class="card-title fw-bold">박경선 님</h5>
             <p class="text-muted mb-2">아직도 직접 구현중? <br> LLM 직접 구현할 시간에 난 깐x치킨 간다</p>
@@ -439,7 +439,7 @@ Title: .NET Conf 2025 @Seoul
             <b>OpenChat Playground</b> 오픈소스 프로젝트를 통해 다양한 모델을 손쉽게 교체하고 실험할 수 있는 방법을 공유합니다.<br>
             LLM 교체와 확장성을 극대화한 실전 활용법과 커뮤니티 기여 배경까지 함께 다룹니다.
     </p>
-    <a href="https://gngsn-public-event.s3.ap-northeast-2.amazonaws.com/%E1%84%87%E1%85%A1%E1%86%A8%E1%84%80%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A5%E1%86%AB2.Jpg" target="_blank" class="btn btn-outline-primary btn-sm rounded-pill mt-2">
+    <a href="https://www.linkedin.com/in/gyeongsun-park" target="_blank" class="btn btn-outline-primary btn-sm rounded-pill mt-2">
           링크드인 방문하기
         </a>
 </div>
