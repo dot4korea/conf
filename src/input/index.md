@@ -402,7 +402,6 @@
         background: #fff7d6; /* 연한 노란색 */
     }
 </style>
-
 <table class="table table-bordered align-middle">
     <thead class="table-light text-center">
         <tr>
@@ -429,6 +428,13 @@
             <td class="text-center"><b>12:00</b></td>
             <td><b>점심시간</b> — 휴식 및 네트워킹</td>
         </tr>
+        <tr class="table-light">
+            <td></td>
+            <td class="text-center fw-bold">
+                 13:00 이후 세션 — Track A | Track B 동시 진행 
+            </td>
+        </tr>
+        <!-- 13:00 -->
         <tr>
             <td class="text-center"><b>13:00</b></td>
             <td class="p-0">
@@ -469,7 +475,7 @@
                     </div>
                     <div class="track-cell track-b">
                         <b>[Track B] 고요한 · 김진석</b><br>
-                        트랙 B 공동 세션 — 실전 확장형 발표
+                        트랙 B 공동 세션 — 
                     </div>
                 </div>
             </td>
@@ -491,8 +497,6 @@
         </tr>
     </tbody>
 </table>
-
-
 
 
 ## 🙌 운영진
