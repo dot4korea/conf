@@ -515,7 +515,7 @@
                 <div class="d-flex">
                     <div class="track-cell track-a">
                         <b>이종인</b><br>
-                        .NET으로 손쉽게 만드는 AI 앱 - Microsoft Agent Framework 알아보기
+                        .NET으로 손쉽게 만드는 AI 앱 <br> Microsoft Agent Framework 알아보기
                     </div>
                     <div class="track-cell track-b">
                         <b>남정현</b><br>
