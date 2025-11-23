@@ -264,7 +264,7 @@ Title: .NET Conf 2025 @Seoul
                         WPF 사용자의 Web Front-end 적응기 <br> Blazor와 Inline SVG, SMIL의 케미스트리
                     </div>
                     <div class="track-cell track-b">
-                        <b>고요한 · 김진석</b><br>
+                        <b>고요한(WinForms) · 김진석(MAUI)</b><br>
                         .NET 10과 함께하는 WinForms & MAUI 알아보기 
                     </div>
                 </div>
