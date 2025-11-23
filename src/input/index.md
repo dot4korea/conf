@@ -515,6 +515,25 @@ Title: .NET Conf 2025 @Seoul
   </div>
 </div>
 
+<!-- 발표자: 고요한 & 김진석 -->
+<div class="col-sm-12 col-md-6 col-lg-4 mb-4">
+  <div class="card shadow-sm border-0 h-100 text-center">
+    <img src="./assets/img/mauiwin.jpg" class="card-img-top rounded-top speaker-img" alt=".NET 10 WinForms & MAUI 세션 이미지">
+    <div class="card-body">
+      <h5 class="card-title fw-bold">고요한 님 · 김진석 님</h5>
+      <p class="text-muted mb-2">.NET 10과 함께하는 WinForms & MAUI 알아보기</p>
+      <p class="card-text small">
+        공동세션으로 진행되며 .NET 10과 함께 업데이트된 WinForms와
+        .NET MAUI의 최신 기능과 변화들을 함께 살펴봅니다.
+        실제 프로젝트 적용 관점에서 개선된 부분과 주목할 점들을
+        재미있고 쉽게 소개합니다.
+      </p>
+      <!-- 링크가 있으면 추가해주세요 -->
+      <!-- <a href="#" class="btn btn-outline-primary btn-sm rounded-pill mt-2">자세히 보기</a> -->
+    </div>
+  </div>
+</div>
+
 <!-- 
 <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
   <div class="card shadow-sm border-0 h-100 text-center">
