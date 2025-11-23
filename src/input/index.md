@@ -265,7 +265,7 @@ Title: .NET Conf 2025 @Seoul
                     </div>
                     <div class="track-cell track-b">
                         <b>고요한 · 김진석</b><br>
-                        트랙 B 공동 세션 — 
+                        .NET 10과 함께하는 WinForms & MAUI 알아보기 
                     </div>
                 </div>
             </td>
@@ -290,7 +290,6 @@ Title: .NET Conf 2025 @Seoul
 
 <br/>
 
----
 <!--
 
 ## 📢 발표제안 (Call for Speakers)
