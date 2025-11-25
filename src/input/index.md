@@ -594,7 +594,7 @@ Title: .NET Conf 2025 @Seoul
 
   <!-- 조장원 -->
   <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4 text-center">
-    <img src="https://community-media.linkareer.com/56772?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb21tdW5pdHktbWVkaWEubGlua2FyZWVyLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzYzODgzMDY0fX19XX0_&Key-Pair-Id=K355AZ2AKPMK1Z&Signature=LRvsOe94Rx37QxNx75znmFM6Cdro59pBFSr9JTucNPhJtTUbi0t7x1mKjvxt8Odii94Jzad0Yiisl3eY8Vq245wWrkevOEaTOtzDc0YNRkAOaQF7cOv-40zmO4V4v8BSMZLuNjyfV9yKEhXiIfjBhyx5wYHicbZNRSDt4KVZX66dfvjD5MpwGwipYWMsDW5YF84wPRCMJqp1N7YgC2Qyd1bqv86uW7Wsy3SpTDkYy88SLKxhKwKmNYnrhTkIB4kTe6Xmbfh~9WzDHaBNK3H0Ex1gv1X2WuBiTbHIp1TyeG7vo~UGv1mnqhhjdX4f1XBQIh5TDITwCMwSl5oKEtvqBA__" alt="조장원" class="img-fluid rounded-circle shadow-sm mb-2" style="width:140px; height:140px; object-fit:cover;">
+    <img src="https://xen-api.linkareer.com/attachments/56772">
     <h6 class="fw-bold mb-0">조장원</h6>
   </div>
 
