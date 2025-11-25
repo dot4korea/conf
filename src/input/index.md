@@ -594,7 +594,7 @@ Title: .NET Conf 2025 @Seoul
 
   <!-- 조장원 -->
   <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4 text-center">
-    <img src="https://xen-api.linkareer.com/attachments/56772">
+    <img src="https://xen-api.linkareer.com/attachments/56772" alt="조장원" class="img-fluid rounded-circle shadow-sm mb-2" style="width:140px; height:140px; object-fit:cover;">
     <h6 class="fw-bold mb-0">조장원</h6>
   </div>
 
