@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>/</id>
-	<title>.NET Conf 2025 @Seoul</title>
-	<link rel="self" href="/" />
-	<rights>Copyright © 2025</rights>
-	<updated>2025-10-05T06:35:45Z</updated>
+	<id>/conf</id>
+	<title>.NET Conf 2026 @Seoul</title>
+	<link rel="self" href="/conf" />
+	<rights>Copyright © 2026</rights>
+	<updated>2026-10-26T14:06:56Z</updated>
 </feed>

@@ -1,0 +1,41 @@
+@{
+  // dddseoul처럼 연도별 독립 포맷: /2025/ 이하에서는 아카이브 전용 메뉴를 보여준다
+  bool isArchive = Document.Destination.ToString().Contains("2025");
+}
+@if (isArchive)
+{
+  <li class="nav-item">
+    <a class="nav-link" href='@Context.GetLink("/2025/")'>2025 홈</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href='@Context.GetLink("/2025/timetable")'>시간표</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href='@Context.GetLink("/")'>최신행사</a>
+  </li>
+}
+else
+{
+  string home = Context.GetLink("/");
+  <li class="nav-item">
+    <a class="nav-link" href="@(home)#about">소개</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="@(home)#schedule">일정</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="@(home)#sponsors">후원사</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="@(home)#speakers">발표자</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="@(home)#organizers">운영진</a>
+  </li>
+  <li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">이전행사</a>
+    <ul class="dropdown-menu">
+      <li><a class="dropdown-item" href='@Context.GetLink("/2025/")'>2025</a></li>
+    </ul>
+  </li>
+}

@@ -2,6 +2,7 @@ Title: 시간표
 IsPost: false
 Order: 1
 IsPage: true
+ShowInNavbar: false
 ---
 <!-- 🕒 전체 발표자 시간표 -->
 

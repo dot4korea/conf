@@ -2,6 +2,7 @@
 IsPost: false
 Order: 2
 IsPage: true
+ShowInNavbar: false
 ---
 # 행동 강령
 
