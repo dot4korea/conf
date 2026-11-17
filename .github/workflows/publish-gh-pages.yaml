@@ -54,6 +54,12 @@ jobs:
       run: |
         dotnet run --project ./src -c Release -- deploy
 
+    - name: Include 2025 archive
+      shell: bash
+      run: |
+        mkdir -p ./src/output/2025
+        cp -R ./src/archive/2025/. ./src/output/2025/
+
     - name: Upload artifact for web
       uses: actions/upload-pages-artifact@v4
       with:
